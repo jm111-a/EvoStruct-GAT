@@ -23,7 +23,7 @@ EvoStruct-GAT/
 ├── 01_filter_and_copy_pdb.py     # Filters complexes by resolution (≤3.0Å) and chain length
 ├── 02_trim_extra_chains.py       # Removes non-interacting chains from complexes
 ├── 03_split_dataset_final.py     # Dataset splitting script
-├── 04_extract_global_sequences.py# Sequence extraction for ESM encoding
+├── 04_extract_global_sequences.py# Sequence extraction for CD-HIT redundancy removal
 ├── 06_generate_interface_labels.py# Calculates interface labels (5Å cross-chain threshold)
 ├── 07_build_graph.py             # Constructs PyG spatial graphs with ESM & DSSP features
 ├── 08_dataset.py                 # PyTorch Geometric custom Dataset loader
@@ -33,7 +33,7 @@ EvoStruct-GAT/
 ├── 12_eval_best_model.py         # Test set evaluation, optimal thresholding, and plotting
 ├── 13_predict.py                 # CLI tool for predicting hotspots on novel PDB chains
 ├── dataset_split_record_regenerated.csv # Official dataset split lists
-├── example_data/                 # 🌟 Sample dataset containing PDB, CSV features, and PYG graphs for quick tests
+├── example_data/                 # Sample dataset containing PDB, CSV features, and PYG graphs for quick tests
 ├── labels/                       # Pre-calculated residue labels for all complexes
 ├── model_save/                   # Contains trained weights (best_model.pth) and academic plots
-└── 消融实验/                      # Ablation study scripts and variants
+└── ablation_study/                      # Ablation study scripts and variants
