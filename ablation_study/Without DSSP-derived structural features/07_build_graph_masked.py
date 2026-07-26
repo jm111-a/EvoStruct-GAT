@@ -12,10 +12,12 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
+
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 torch.cuda.empty_cache()
 print(f"🔥 【双链全量修复版】设备: {DEVICE}")
 
+# 路径匹配你的系统
 METADATA_CSV = r"C:\Users\Administrator\Desktop\P-P\filtered_pdb_metadata_final.csv"
 DATASET_ROOT = r"C:\Users\Administrator\Desktop\P-P\dataset_split"
 LABEL_DIR = r"C:\Users\Administrator\Desktop\P-P\labels"
@@ -31,12 +33,16 @@ def set_all_seed(seed=42):
 
 set_all_seed(42)
 
+# 加载 ESM-2 模型
 print(f"🚀 正在加载 esm2_t33_650M_UR50D 到 {DEVICE}...")
 model_esm, alphabet = esm.pretrained.esm2_t33_650M_UR50D()
 model_esm = model_esm.to(DEVICE).eval()
 batch_converter = alphabet.get_batch_converter()
 
 
+# ==============================================
+# 核心处理函数
+# ==============================================
 def process_chain_graph(pdb_path, chain_ids_str, labels_df, out_dirs, chain_type, pdb_id):
     parser = PDBParser(QUIET=True)
     structure = parser.get_structure(pdb_id, pdb_path)
@@ -48,6 +54,7 @@ def process_chain_graph(pdb_path, chain_ids_str, labels_df, out_dirs, chain_type
     for c_id in target_chain_ids:
         if c_id in model:
             for res in model[c_id]:
+                # res.id[0] == ' ' 代表这不是水分子或杂原子
                 if res.id[0] == ' ':
                     all_residues.append(res)
 
@@ -58,7 +65,7 @@ def process_chain_graph(pdb_path, chain_ids_str, labels_df, out_dirs, chain_type
     for res in all_residues:
         aa = seq1(res.get_resname(), custom_map={"MSE": "M"})
         if aa == '' or aa == '?':
-            aa = 'X'
+            aa = 'X'  # 无法识别的设为X
         seq += aa
 
     if len(seq) > 1022: seq = seq[:1022]
@@ -89,7 +96,6 @@ def process_chain_graph(pdb_path, chain_ids_str, labels_df, out_dirs, chain_type
 
         y_val = match['interface_label'].values[0]
 
-        # 核心修改：零掩码策略，完全抹去结构特征方差
         struct_feat = [0.0, 0.0, 0.0, 0.0]
 
         full_feat = np.concatenate([token_representations[i], struct_feat])
@@ -121,6 +127,9 @@ def process_chain_graph(pdb_path, chain_ids_str, labels_df, out_dirs, chain_type
     return True
 
 
+# ==============================================
+# 主流程
+# ==============================================
 def main():
     df_meta = pd.read_csv(METADATA_CSV)
 

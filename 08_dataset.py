@@ -5,9 +5,9 @@ from torch_geometric.data import Dataset
 
 warnings.filterwarnings('ignore')
 
-PYG_GRAPH_TRAIN = r"C:\Users\Administrator\Desktop\P-P\04_all_output\train_pyg_3d_graph"
-PYG_GRAPH_VAL = r"C:\Users\Administrator\Desktop\P-P\04_all_output\val_pyg_3d_graph"
-PYG_GRAPH_TEST = r"C:\Users\Administrator\Desktop\P-P\04_all_output\test_pyg_3d_graph"
+PYG_GRAPH_TRAIN = r"C:\Users\Administrator\Desktop\P-P\all_output\train_pyg_3d_graph"
+PYG_GRAPH_VAL = r"C:\Users\Administrator\Desktop\P-P\all_output\val_pyg_3d_graph"
+PYG_GRAPH_TEST = r"C:\Users\Administrator\Desktop\P-P\all_output\test_pyg_3d_graph"
 
 MODEL_SAVE_DIR = r"C:\Users\Administrator\Desktop\P-P\model_save"
 os.makedirs(MODEL_SAVE_DIR, exist_ok=True)

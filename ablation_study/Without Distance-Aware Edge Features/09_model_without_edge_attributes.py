@@ -4,10 +4,13 @@ import torch.nn.functional as F
 from torch_geometric.nn import GATv2Conv, LayerNorm
 
 
+ABLATION_NAME = "without_edge_attributes"
+
+
 class PPI_GAT_DualChain(nn.Module):
     """
-    【架构消融版】GAT 模型 (w/o Multi-scale Fusion & w/o Skip Connections)
-    此版本移除了残差跳连和多尺度特征拼接，用于评估这两项设计的必要性。
+    单因素消融：w/o edge attributes。
+    保留原始图拓扑，仅将所有边属性置零，以评价距离感知边信息的贡献。
     """
 
     def __init__(self, in_dim=1284, edge_dim=5, esm_dim=1280, hidden_dim=256, heads=4, dropout=0.5):
@@ -16,6 +19,7 @@ class PPI_GAT_DualChain(nn.Module):
         self.struct_dim = in_dim - esm_dim
         self.dropout = dropout
 
+        # 1. ESM 特征独立投射
         self.esm_proj = nn.Sequential(
             nn.Linear(self.esm_dim, hidden_dim),
             nn.LayerNorm(hidden_dim),
@@ -23,6 +27,7 @@ class PPI_GAT_DualChain(nn.Module):
             nn.Dropout(dropout)
         )
 
+        # 2. 结构特征独立投射
         self.struct_proj = nn.Sequential(
             nn.Linear(self.struct_dim, hidden_dim),
             nn.LayerNorm(hidden_dim),
@@ -30,26 +35,29 @@ class PPI_GAT_DualChain(nn.Module):
             nn.Dropout(dropout)
         )
 
+        # 3. 初始特征拼接降维层 (将 esm 和 struct 拼接后降回 hidden_dim)
         self.initial_fuse = nn.Sequential(
             nn.Linear(hidden_dim * 2, hidden_dim),
             nn.LayerNorm(hidden_dim),
             nn.SiLU()
         )
 
+        # 4. 多头注意力层 (GATv2)
         self.gat1 = GATv2Conv(hidden_dim, hidden_dim // heads, heads=heads, edge_dim=edge_dim, dropout=dropout)
         self.norm1 = LayerNorm(hidden_dim)
 
         self.gat2 = GATv2Conv(hidden_dim, hidden_dim // heads, heads=heads, edge_dim=edge_dim, dropout=dropout)
         self.norm2 = LayerNorm(hidden_dim)
 
-        # 消融修改：由于不再拼接 3 种尺度的特征，输入维度改为单层的 hidden_dim
+        # 5. 多尺度最终融合层 (融合 原始ESM + GAT1输出 + GAT2输出)
         self.final_fuse = nn.Sequential(
-            nn.Linear(hidden_dim, hidden_dim),
+            nn.Linear(hidden_dim * 3, hidden_dim),
             nn.LayerNorm(hidden_dim),
             nn.SiLU(),
             nn.Dropout(dropout)
         )
 
+        # 6. 最终分类头
         self.classifier = nn.Sequential(
             nn.Linear(hidden_dim, hidden_dim // 2),
             nn.LayerNorm(hidden_dim // 2),
@@ -60,6 +68,11 @@ class PPI_GAT_DualChain(nn.Module):
 
     def forward(self, data):
         x, edge_index, edge_attr = data.x, data.edge_index, data.edge_attr
+
+        # 单因素消融：保留 edge_index（图拓扑），但屏蔽所有边属性。
+        # 置零而不是删除 edge_dim，可保持模型维度和参数量与完整模型一致。
+        if edge_attr is not None:
+            edge_attr = torch.zeros_like(edge_attr)
 
         # 特征解耦
         x_esm = x[:, :self.esm_dim]
@@ -73,19 +86,20 @@ class PPI_GAT_DualChain(nn.Module):
         h_concat = torch.cat([esm_emb, struct_emb], dim=-1)
         h = self.initial_fuse(h_concat)
 
-        # 第一层 GAT
+        # 第一层 GAT + 残差跳连
         h1 = self.gat1(h, edge_index, edge_attr)
         h1 = self.norm1(h1)
-        # 消融修改：移除残差跳连 (删掉了 + h)
-        h1 = F.silu(h1)
+        h1 = F.silu(h1 + h)  # 残差连接，保留初始节点特征
 
-        # 第二层 GAT
+        # 第二层 GAT + 残差跳连
         h2 = self.gat2(h1, edge_index, edge_attr)
         h2 = self.norm2(h2)
-        # 消融修改：移除残差跳连 (删掉了 + h1)
-        h2 = F.silu(h2)
+        h2 = F.silu(h2 + h1)  # 残差连接，保留一层局部特征
 
-        # 消融修改：移除多尺度特征聚合 (直接使用最后一层的输出)
-        out = self.final_fuse(h2)
+        # 多尺度特征聚合 (Multi-scale Fusion)
+        # 将 "纯序列特征"、"一层邻居特征" 和 "二层全局特征" 拼接到一起
+        combined = torch.cat([esm_emb, h1, h2], dim=-1)
 
+        # 降维并输出
+        out = self.final_fuse(combined)
         return self.classifier(out).view(-1)

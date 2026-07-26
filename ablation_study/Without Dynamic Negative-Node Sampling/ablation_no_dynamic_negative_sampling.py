@@ -25,6 +25,7 @@ def seed_everything(seed=42):
 
 seed_everything(42)
 
+# ====================== 1. 环境与模块加载 ======================
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"
 plt.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'Arial']
 plt.rcParams['axes.unicode_minus'] = False
@@ -43,7 +44,7 @@ except Exception as e:
     exit()
 
 
-# ====================== Focal Loss 定义 (保留类定义，但下方不再调用) ======================
+# ====================== 2. Focal Loss 定义（本消融中保留） ======================
 class FocalLoss(nn.Module):
     def __init__(self, alpha=0.75, gamma=2.0):
         super(FocalLoss, self).__init__()
@@ -63,13 +64,12 @@ class FocalLoss(nn.Module):
         return loss.mean()
 
 
-# ====================== 参数设置 (数据平衡优化版) ======================
+# ====================== 3. 参数设置（仅移除动态负节点采样） ======================
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 BATCH_SIZE = 4
 LEARNING_RATE = 1e-5
 EPOCHS = 100
 PATIENCE = 20
-UNDERSAMPLE_RATIO = 3
 
 # --- A. 图级界面增强采样 (WeightedRandomSampler) ---
 print("📊 正在计算样本权重以实施界面增强采样...")
@@ -94,11 +94,11 @@ model = PPI_Model(in_dim=train_dataset[0].x.shape[1],
 optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=1e-2)
 scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=EPOCHS)
 
-#使用普通的 BCE Loss，移除 Focal Loss
-criterion = nn.BCEWithLogitsLoss()
+# 单因素消融：保留正式模型中的 Focal Loss，仅移除动态负节点采样
+criterion = FocalLoss(alpha=0.75, gamma=2.0)
 
 
-# ====================== 指标计算工具 ======================
+# ====================== 4. 指标计算工具 ======================
 @torch.no_grad()
 def get_metrics(loader, threshold=0.5):
     model.eval()
@@ -125,12 +125,12 @@ def get_metrics(loader, threshold=0.5):
     }, y_score, y_true
 
 
-# ====================== 训练循环 ======================
-print(f"🚀 开始策略消融训练... (w/o Focal Loss & w/o Undersampling)")
+# ====================== 5. 训练循环 ======================
+print("🚀 开始单因素消融训练... (w/o Dynamic Negative Sampling)")
 best_val_f1 = 0
 patience_counter = 0
 history = []
-best_model_path = os.path.join(MODEL_SAVE_DIR, "best_model_ablation.pth")
+best_model_path = os.path.join(MODEL_SAVE_DIR, "best_model_ablation_no_dynamic_sampling.pth")
 
 for epoch in range(1, EPOCHS + 1):
     model.train()
@@ -141,7 +141,8 @@ for epoch in range(1, EPOCHS + 1):
 
         out = model(data)
 
-        #关闭节点级动态下采样，直接在全图节点上计算 Loss
+        # 单因素消融：关闭节点级动态负采样，所有节点均参与 Focal Loss 计算
+        # 除此之外，损失函数、图级加权采样、优化器、学习率、早停和阈值选择均保持不变。
         loss = criterion(out, data.y.float())
 
         loss.backward()
@@ -169,7 +170,7 @@ for epoch in range(1, EPOCHS + 1):
             print(f"🛑 连续 {PATIENCE} 轮无提升，触发早停。")
             break
 
-# ====================== 评估与可视化 ======================
+# ====================== 6. 评估与可视化 ======================
 print("\n🧪 正在加载最佳模型进行最终评估...")
 if os.path.exists(best_model_path):
     model.load_state_dict(torch.load(best_model_path))
@@ -196,6 +197,7 @@ print(f"   - Recall: {recall_score(test_labels, y_pred_test, zero_division=0):.4
 print(f"   - Accuracy: {accuracy_score(test_labels, y_pred_test):.4f}")
 print("=" * 40 + "\n")
 
+# ====================== 核心重构：学术规范级绘图逻辑 ======================
 try:
     plt.style.use('seaborn-v0_8-whitegrid')
 except:
@@ -249,7 +251,7 @@ for i, m in enumerate(metrics_to_plot):
     ax.grid(axis='x', visible=False)
 
 plt.tight_layout()
-save_path = os.path.join(MODEL_SAVE_DIR, 'academic_training_curves_ablation.png')
+save_path = os.path.join(MODEL_SAVE_DIR, 'academic_training_curves_ablation_no_dynamic_sampling.png')
 plt.savefig(save_path, dpi=300, bbox_inches='tight')
 
 print(f"✅ 学术级规范画图完成！结果已存至: {save_path}")
