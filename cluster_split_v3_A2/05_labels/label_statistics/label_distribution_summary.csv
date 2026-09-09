@@ -1,0 +1,4 @@
+﻿split,csv_file_count,total_residues,interface_residues,non_interface_residues,interface_ratio_percent,pos_neg_ratio,invalid_label_count,receptor_total,receptor_interface,ligand_total,ligand_interface
+train,1390,623399,69754,553645,11.189302517328388,1:7.94,0,402014,37062,221385,32692
+val,172,69673,10384,59289,14.903908257144089,1:5.71,0,44496,5642,25177,4742
+test,177,74086,10437,63649,14.087681883216801,1:6.10,0,47638,5523,26448,4914

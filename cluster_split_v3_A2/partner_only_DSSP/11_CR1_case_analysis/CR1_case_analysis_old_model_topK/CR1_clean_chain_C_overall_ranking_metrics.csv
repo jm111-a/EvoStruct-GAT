@@ -1,0 +1,2 @@
+﻿Total_scanned_residues,Total_true_interface_residues,Interface_prevalence,AUROC,AUPRC,N_ground_truth_residues_outside_scanned_region,Ground_truth_residues_outside_scanned_region
+193,46,0.23834196891191708,0.7993197278911564,0.6320814675129329,0,

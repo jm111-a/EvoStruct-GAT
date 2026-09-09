@@ -1,0 +1,10 @@
+﻿experiment,split,graphs,nodes,positive,failed
+4A,train,2780,620116,54954,0
+4A,val,344,69673,8301,0
+4A,test,354,74086,8284,0
+4p5A,train,2780,620116,63060,0
+4p5A,val,344,69673,9484,0
+4p5A,test,354,74086,9502,0
+deltaSASA1,train,2780,620116,75849,0
+deltaSASA1,val,344,69673,11149,0
+deltaSASA1,test,354,74086,11487,0

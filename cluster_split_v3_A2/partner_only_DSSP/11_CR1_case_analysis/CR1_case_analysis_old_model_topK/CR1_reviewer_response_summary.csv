@@ -1,0 +1,2 @@
+﻿Evaluation,Total_residues,Total_true_interface_residues,Predicted_topK_residues,True_positive_TP,False_positive_FP,Missed_interface_residues_FN,Precision,Recall,F1,AUROC,AUPRC
+CR1 Top-8 ranking,193,46,8,7,1,39,0.875,0.1521739130434782,0.25925925925925913,0.7993197278911564,0.6320814675129329

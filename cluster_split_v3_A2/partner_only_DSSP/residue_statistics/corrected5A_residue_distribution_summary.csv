@@ -1,0 +1,4 @@
+﻿split,graph_csv_count,total_residues,interface_residues,non_interface_residues,interface_ratio_percent,pos_neg_ratio,invalid_label_count,receptor_total,receptor_interface,receptor_interface_ratio_percent,ligand_total,ligand_interface,ligand_interface_ratio_percent,unknown_chain_type_nodes
+train,2780,620116,69700,550416,11.239832547458862,1:7.90,0,398983,37024,9.279593366133394,221133,32676,14.776627640379319,0
+val,344,69673,10384,59289,14.903908257144089,1:5.71,0,44496,5642,12.679791441927366,25177,4742,18.834650673233508,0
+test,354,74086,10437,63649,14.087681883216801,1:6.10,0,47638,5523,11.593685713086192,26448,4914,18.57985480943739,0

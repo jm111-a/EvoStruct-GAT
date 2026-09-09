@@ -1,0 +1,4 @@
+﻿split,graphs,nodes,positive
+train,2780,620116,69700
+val,344,69673,10384
+test,354,74086,10437

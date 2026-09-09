@@ -1,0 +1,2452 @@
+>Cluster 0
+0	297aa, >2gox_complex... at 97.98%
+1	287aa, >2noj_complex... at 99.65%
+2	1554aa, >2wii_complex... *
+3	292aa, >2wy8_complex... at 99.66%
+4	294aa, >2xqw_complex... at 98.98%
+5	297aa, >3d5r_complex... at 97.98%
+6	297aa, >3d5s_complex... at 97.98%
+7	295aa, >3oxu_complex... at 98.64%
+8	1553aa, >5fo8_complex... at 99.87%
+9	1553aa, >5fob_complex... at 99.94%
+10	1554aa, >6ehg_complex... at 99.68%
+>Cluster 1
+0	1471aa, >2nup_complex... *
+1	1457aa, >2nut_complex... at 100.00%
+2	30aa, >6cbp_complex... at 43.33%
+>Cluster 2
+0	1033aa, >2j8s_complex... *
+1	1032aa, >3noc_complex... at 100.00%
+>Cluster 3
+0	993aa, >3gb8_complex... *
+>Cluster 4
+0	957aa, >3m63_complex... *
+>Cluster 5
+0	955aa, >3dbl_complex... *
+>Cluster 6
+0	947aa, >3dbh_complex... *
+>Cluster 7
+0	930aa, >4u4c_complex... *
+>Cluster 8
+0	901aa, >4yoc_complex... *
+>Cluster 9
+0	890aa, >5xjo_complex... *
+>Cluster 10
+0	883aa, >4cvw_complex... *
+>Cluster 11
+0	873aa, >2p8q_complex... *
+1	756aa, >2qna_complex... at 98.81%
+>Cluster 12
+0	431aa, >4drx_complex... at 99.30%
+1	868aa, >4f6r_complex... *
+2	868aa, >4u3j_complex... at 75.23%
+3	868aa, >5eyp_complex... at 99.54%
+4	437aa, >6gwc_complex... at 100.00%
+>Cluster 13
+0	856aa, >3bow_complex... *
+>Cluster 14
+0	822aa, >1zm4_complex... *
+>Cluster 15
+0	813aa, >4rt6_complex... *
+>Cluster 16
+0	798aa, >2wjv_complex... *
+>Cluster 17
+0	797aa, >1he8_complex... *
+>Cluster 18
+0	767aa, >4lxr_complex... *
+>Cluster 19
+0	762aa, >5odw_complex... *
+>Cluster 20
+0	750aa, >6k4k_complex... at 100.00%
+1	748aa, >6oqq_complex... at 100.00%
+2	757aa, >6plm_complex... *
+>Cluster 21
+0	751aa, >4c1n_complex... *
+>Cluster 22
+0	729aa, >1o94_complex... *
+>Cluster 23
+0	728aa, >4kr0_complex... *
+1	727aa, >4qzv_complex... at 100.00%
+>Cluster 24
+0	711aa, >4byf_complex... *
+>Cluster 25
+0	688aa, >1t6b_complex... *
+>Cluster 26
+0	421aa, >1fe8_complex... at 53.44%
+1	427aa, >1nsn_complex... at 54.33%
+2	223aa, >1vfb_complex... at 51.12%
+3	218aa, >2uzi_complex... at 49.08%
+4	436aa, >2vxs_complex... at 57.57%
+5	435aa, >2xqb_complex... at 54.94%
+6	221aa, >3a67_complex... at 43.44%
+7	221aa, >3a6b_complex... at 43.44%
+8	221aa, >3a6c_complex... at 43.44%
+9	435aa, >3h42_complex... at 57.93%
+10	421aa, >3ma9_complex... at 53.92%
+11	433aa, >3mac_complex... at 56.58%
+12	427aa, >3mj9_complex... at 51.99%
+13	430aa, >3nh7_complex... at 57.91%
+14	425aa, >3t2n_complex... at 54.35%
+15	447aa, >3thm_complex... at 57.05%
+16	244aa, >3uze_complex... at 44.67%
+17	243aa, >3uzq_complex... at 42.39%
+18	231aa, >4ffy_complex... at 50.65%
+19	432aa, >4fqi_complex... at 54.17%
+20	443aa, >4fqj_complex... at 55.76%
+21	428aa, >4hj0_complex... at 53.97%
+22	675aa, >4hjj_complex... at 67.56%
+23	437aa, >4hkx_complex... at 54.23%
+24	443aa, >4j4p_complex... at 56.66%
+25	430aa, >4k2u_complex... at 47.67%
+26	428aa, >4kht_complex... at 55.84%
+27	432aa, >4lu5_complex... at 48.61%
+28	426aa, >4qci_complex... at 49.06%
+29	242aa, >5aam_complex... at 42.98%
+30	435aa, >5anm_complex... at 57.24%
+31	424aa, >5c7x_complex... at 58.25%
+32	423aa, >5d70_complex... at 58.39%
+33	422aa, >5d71_complex... at 57.58%
+34	424aa, >5d72_complex... at 58.25%
+35	429aa, >5dfv_complex... at 51.28%
+36	679aa, >5fhx_complex... *
+37	440aa, >5gzn_complex... at 56.59%
+38	434aa, >5j13_complex... at 54.15%
+39	449aa, >5l6y_complex... at 53.23%
+40	436aa, >5lcv_complex... at 54.13%
+41	435aa, >5otj_complex... at 55.17%
+42	443aa, >5t29_complex... at 55.30%
+43	442aa, >5t5b_complex... at 55.66%
+44	444aa, >5t6l_complex... at 55.63%
+45	446aa, >5tfw_complex... at 55.38%
+46	433aa, >5ush_complex... at 57.27%
+47	434aa, >5usl_complex... at 57.37%
+48	447aa, >5w08_complex... at 52.57%
+49	439aa, >5w6g_complex... at 55.58%
+50	429aa, >5whk_complex... at 57.34%
+51	433aa, >5y9j_complex... at 54.50%
+52	434aa, >6azz_complex... at 54.84%
+53	431aa, >6b08_complex... at 55.22%
+54	434aa, >6b0s_complex... at 56.91%
+55	419aa, >6bck_complex... at 46.06%
+56	434aa, >6blh_complex... at 57.14%
+57	433aa, >6e62_complex... at 55.89%
+58	432aa, >6e63_complex... at 57.18%
+59	436aa, >6fg2_complex... at 56.42%
+60	434aa, >6flb_complex... at 53.46%
+61	436aa, >6gku_complex... at 57.34%
+62	434aa, >6h2y_complex... at 55.07%
+63	228aa, >6i07_complex... at 44.74%
+64	417aa, >6ieb_complex... at 57.55%
+65	434aa, >6j6y_complex... at 58.29%
+66	427aa, >6mi2_complex... at 56.21%
+67	421aa, >6nmv_complex... at 55.34%
+68	444aa, >6q0h_complex... at 56.76%
+69	443aa, >6q0o_complex... at 55.76%
+70	441aa, >6q18_complex... at 54.88%
+71	435aa, >6qb6_complex... at 48.74%
+72	434aa, >6r8x_complex... at 58.53%
+>Cluster 27
+0	658aa, >4qd2_complex... *
+>Cluster 28
+0	651aa, >4qt8_complex... *
+>Cluster 29
+0	649aa, >4qlb_complex... *
+>Cluster 30
+0	625aa, >3ol2_complex... *
+>Cluster 31
+0	621aa, >3oky_complex... *
+>Cluster 32
+0	619aa, >3s2k_complex... *
+1	616aa, >6h15_complex... at 99.68%
+2	618aa, >6h16_complex... at 99.35%
+>Cluster 33
+0	578aa, >3mzw_complex... at 44.64%
+1	613aa, >3qwq_complex... *
+2	169aa, >4hrl_complex... at 47.34%
+3	574aa, >5my6_complex... at 44.77%
+4	500aa, >5wb7_complex... at 100.00%
+5	502aa, >5wb8_complex... at 99.40%
+>Cluster 34
+0	605aa, >4g8a_complex... *
+>Cluster 35
+0	597aa, >2ajf_complex... *
+>Cluster 36
+0	597aa, >3wqb_complex... *
+>Cluster 37
+0	588aa, >3nvq_complex... *
+>Cluster 38
+0	579aa, >2vdb_complex... *
+>Cluster 39
+0	576aa, >6azp_complex... at 100.00%
+1	579aa, >6bmt_complex... *
+>Cluster 40
+0	575aa, >6rhv_complex... *
+1	568aa, >6rhw_complex... at 99.65%
+>Cluster 41
+0	567aa, >2xhe_complex... *
+>Cluster 42
+0	566aa, >5bn5_complex... *
+>Cluster 43
+0	563aa, >4jeh_complex... *
+>Cluster 44
+0	202aa, >6bva_complex... at 78.71%
+1	202aa, >6byh_complex... at 76.73%
+2	551aa, >6o60_complex... *
+>Cluster 45
+0	521aa, >1m1e_complex... at 79.27%
+1	519aa, >1th1_complex... at 79.77%
+2	516aa, >1v18_complex... at 79.65%
+3	548aa, >3ifq_complex... *
+4	515aa, >3oux_complex... at 79.61%
+>Cluster 46
+0	534aa, >4cj0_complex... at 100.00%
+1	544aa, >4cj1_complex... *
+>Cluster 47
+0	294aa, >1buh_complex... at 94.22%
+1	541aa, >6ath_complex... *
+>Cluster 48
+0	540aa, >2xb6_complex... *
+>Cluster 49
+0	537aa, >2xqr_complex... *
+>Cluster 50
+0	535aa, >1xdt_complex... *
+>Cluster 51
+0	532aa, >4xr8_complex... *
+>Cluster 52
+0	530aa, >4nee_complex... *
+>Cluster 53
+0	530aa, >5lp5_complex... *
+>Cluster 54
+0	526aa, >3au4_complex... *
+>Cluster 55
+0	525aa, >6b6u_complex... *
+>Cluster 56
+0	520aa, >2b5i_complex... *
+1	399aa, >2erj_complex... at 97.74%
+2	396aa, >5m5e_complex... at 98.48%
+3	402aa, >6dg5_complex... at 63.93%
+>Cluster 57
+0	267aa, >3aaa_complex... at 100.00%
+1	512aa, >3lk2_complex... at 100.00%
+2	519aa, >3lk3_complex... *
+>Cluster 58
+0	515aa, >1wve_complex... *
+>Cluster 59
+0	512aa, >4f0z_complex... *
+>Cluster 60
+0	506aa, >5mv8_complex... *
+1	500aa, >5mv9_complex... at 57.80%
+2	477aa, >5xbf_complex... at 99.16%
+>Cluster 61
+0	422aa, >3bpo_complex... at 76.30%
+1	505aa, >5e4e_complex... *
+>Cluster 62
+0	504aa, >4dpg_complex... *
+>Cluster 63
+0	500aa, >1vg0_complex... *
+>Cluster 64
+0	500aa, >4o1q_complex... *
+>Cluster 65
+0	498aa, >4eef_complex... *
+>Cluster 66
+0	497aa, >2mta_complex... *
+>Cluster 67
+0	497aa, >4ilg_complex... *
+>Cluster 68
+0	496aa, >1bvn_complex... *
+1	470aa, >1clv_complex... at 46.81%
+2	495aa, >1dhk_complex... at 98.79%
+3	496aa, >1kxq_complex... at 98.59%
+4	496aa, >1kxt_complex... at 98.59%
+5	496aa, >1kxv_complex... at 98.59%
+>Cluster 69
+0	494aa, >4ct0_complex... *
+>Cluster 70
+0	494aa, >5xjg_complex... *
+>Cluster 71
+0	489aa, >1k93_complex... *
+>Cluster 72
+0	476aa, >5cxb_complex... *
+1	475aa, >5cyk_complex... at 100.00%
+>Cluster 73
+0	472aa, >5imt_complex... at 59.75%
+1	474aa, >5imy_complex... *
+>Cluster 74
+0	471aa, >2f5z_complex... *
+>Cluster 75
+0	470aa, >1jiw_complex... *
+>Cluster 76
+0	470aa, >6aqr_complex... *
+>Cluster 77
+0	469aa, >5mj3_complex... *
+1	466aa, >5mzv_complex... at 100.00%
+>Cluster 78
+0	462aa, >2omt_complex... at 99.13%
+1	462aa, >2omu_complex... at 99.13%
+2	461aa, >2omv_complex... at 99.35%
+3	461aa, >2omw_complex... at 99.35%
+4	462aa, >2omx_complex... at 98.92%
+5	461aa, >2omy_complex... at 99.35%
+6	466aa, >2omz_complex... *
+>Cluster 79
+0	466aa, >4z80_complex... *
+>Cluster 80
+0	463aa, >2wbj_complex... *
+1	440aa, >3o6f_complex... at 61.82%
+2	442aa, >3o8x_complex... at 44.12%
+3	442aa, >3o9w_complex... at 44.12%
+4	455aa, >3pl6_complex... at 66.59%
+5	442aa, >3qux_complex... at 44.12%
+6	442aa, >3quy_complex... at 44.12%
+7	442aa, >3quz_complex... at 44.12%
+8	437aa, >3rdt_complex... at 45.77%
+9	442aa, >3rtq_complex... at 44.12%
+10	436aa, >3rug_complex... at 46.56%
+11	442aa, >3rzc_complex... at 44.12%
+12	439aa, >3scm_complex... at 45.79%
+13	440aa, >3sda_complex... at 45.91%
+14	438aa, >3sdd_complex... at 45.89%
+15	443aa, >3tvm_complex... at 44.24%
+16	442aa, >3vwk_complex... at 46.61%
+17	425aa, >4en3_complex... at 48.24%
+18	455aa, >4grl_complex... at 66.37%
+19	442aa, >4iiq_complex... at 45.70%
+20	453aa, >4may_complex... at 66.67%
+21	437aa, >4p46_complex... at 45.77%
+22	435aa, >4pj9_complex... at 46.44%
+23	436aa, >4pja_complex... at 45.87%
+24	435aa, >4pjb_complex... at 45.75%
+25	437aa, >4pjc_complex... at 46.22%
+26	436aa, >4pjd_complex... at 45.41%
+27	438aa, >4pjf_complex... at 46.12%
+28	442aa, >4wo4_complex... at 59.95%
+29	446aa, >4ww2_complex... at 46.19%
+30	442aa, >4zak_complex... at 44.12%
+31	439aa, >5d5m_complex... at 46.24%
+32	439aa, >5d7i_complex... at 46.24%
+33	440aa, >5d7j_complex... at 46.14%
+34	431aa, >6cug_complex... at 48.49%
+35	203aa, >6cxf_complex... at 63.55%
+36	426aa, >6mss_complex... at 47.42%
+>Cluster 81
+0	461aa, >4kt1_complex... *
+>Cluster 82
+0	460aa, >1a4y_complex... *
+1	460aa, >4per_complex... at 49.35%
+>Cluster 83
+0	457aa, >1e6e_complex... *
+>Cluster 84
+0	457aa, >6i3f_complex... *
+>Cluster 85
+0	428aa, >1ahw_complex... at 50.00%
+1	437aa, >1bj1_complex... at 75.74%
+2	426aa, >1bql_complex... at 49.77%
+3	437aa, >1cz8_complex... at 75.97%
+4	437aa, >1dee_complex... at 63.39%
+5	424aa, >1dqj_complex... at 49.06%
+6	429aa, >1e6j_complex... at 48.25%
+7	427aa, >1eo8_complex... at 48.48%
+8	434aa, >1fsk_complex... at 51.38%
+9	437aa, >1hez_complex... at 63.84%
+10	426aa, >1iqd_complex... at 66.43%
+11	430aa, >1jps_complex... at 69.77%
+12	402aa, >1jrh_complex... at 47.76%
+13	436aa, >1mhh_complex... at 50.46%
+14	432aa, >1mlc_complex... at 49.07%
+15	435aa, >1nca_complex... at 54.71%
+16	437aa, >1nl0_complex... at 56.52%
+17	434aa, >1ob1_complex... at 53.46%
+18	428aa, >1p2c_complex... at 49.07%
+19	440aa, >1qfu_complex... at 50.68%
+20	432aa, >1sy6_complex... at 47.92%
+21	432aa, >1tzh_complex... at 77.55%
+22	436aa, >1tzi_complex... at 77.98%
+23	437aa, >1wej_complex... at 54.92%
+24	431aa, >1yy9_complex... at 73.09%
+25	427aa, >2b2x_complex... at 57.14%
+26	431aa, >2bdn_complex... at 51.04%
+27	423aa, >2cmr_complex... at 69.50%
+28	432aa, >2dd8_complex... at 53.47%
+29	434aa, >2fjg_complex... at 79.03%
+30	431aa, >2h9g_complex... at 78.65%
+31	426aa, >2iff_complex... at 49.77%
+32	437aa, >2j4w_complex... at 55.15%
+33	437aa, >2j5l_complex... at 55.15%
+34	434aa, >2j6e_complex... at 44.01%
+35	435aa, >2jel_complex... at 47.82%
+36	433aa, >2nyy_complex... at 74.83%
+37	432aa, >2r56_complex... at 77.55%
+38	429aa, >2vxq_complex... at 70.86%
+39	426aa, >2vxt_complex... at 49.53%
+40	427aa, >2w9e_complex... at 48.71%
+41	438aa, >2xra_complex... at 73.29%
+42	430aa, >2ypv_complex... at 52.56%
+43	435aa, >3b2u_complex... at 77.24%
+44	438aa, >3bdy_complex... at 76.71%
+45	436aa, >3be1_complex... at 76.83%
+46	431aa, >3bgf_complex... at 52.90%
+47	431aa, >3dvg_complex... at 76.57%
+48	433aa, >3dvn_complex... at 76.91%
+49	434aa, >3eoa_complex... at 77.42%
+50	440aa, >3hi1_complex... at 76.59%
+51	429aa, >3hi6_complex... at 68.76%
+52	445aa, >3idx_complex... at 75.28%
+53	424aa, >3iu3_complex... at 67.69%
+54	437aa, >3kr3_complex... at 75.74%
+55	436aa, >3l5w_complex... at 79.36%
+56	437aa, >3l5x_complex... at 81.92%
+57	431aa, >3l95_complex... at 75.87%
+58	451aa, >3lev_complex... *
+59	432aa, >3mxw_complex... at 71.06%
+60	428aa, >3nfp_complex... at 71.73%
+61	432aa, >3ngb_complex... at 68.52%
+62	437aa, >3nps_complex... at 68.42%
+63	436aa, >3p0y_complex... at 78.44%
+64	434aa, >3q1s_complex... at 75.35%
+65	444aa, >3q3g_complex... at 54.95%
+66	430aa, >3qwo_complex... at 84.42%
+67	436aa, >3r1g_complex... at 79.13%
+68	437aa, >3rkd_complex... at 61.10%
+69	440aa, >3ru8_complex... at 69.32%
+70	438aa, >3sdy_complex... at 72.15%
+71	445aa, >3skj_complex... at 75.96%
+72	441aa, >3so3_complex... at 73.70%
+73	431aa, >3sqo_complex... at 69.61%
+74	448aa, >3tje_complex... at 56.47%
+75	432aa, >3uc0_complex... at 78.70%
+76	432aa, >3v6o_complex... at 57.41%
+77	438aa, >3vg9_complex... at 54.57%
+78	433aa, >3w9e_complex... at 74.36%
+79	432aa, >3wih_complex... at 49.31%
+80	435aa, >4aei_complex... at 53.79%
+81	429aa, >4al8_complex... at 50.58%
+82	429aa, >4ala_complex... at 51.98%
+83	435aa, >4cmh_complex... at 71.26%
+84	434aa, >4cni_complex... at 67.74%
+85	429aa, >4d9q_complex... at 70.63%
+86	429aa, >4d9r_complex... at 70.63%
+87	431aa, >4dgi_complex... at 47.56%
+88	439aa, >4dke_complex... at 79.27%
+89	421aa, >4dkf_complex... at 72.21%
+90	432aa, >4dn4_complex... at 73.15%
+91	440aa, >4dtg_complex... at 70.68%
+92	435aa, >4edw_complex... at 77.01%
+93	445aa, >4ers_complex... at 77.98%
+94	432aa, >4etq_complex... at 49.07%
+95	443aa, >4f37_complex... at 59.82%
+96	430aa, >4f3f_complex... at 71.63%
+97	434aa, >4g3y_complex... at 66.59%
+98	430aa, >4g6j_complex... at 67.44%
+99	433aa, >4g6m_complex... at 81.29%
+100	428aa, >4gms_complex... at 47.43%
+101	431aa, >4h88_complex... at 47.56%
+102	433aa, >4hlz_complex... at 58.43%
+103	443aa, >4i2x_complex... at 52.60%
+104	436aa, >4i3r_complex... at 68.12%
+105	437aa, >4i77_complex... at 79.86%
+106	434aa, >4ij3_complex... at 57.60%
+107	432aa, >4jkp_complex... at 68.29%
+108	430aa, >4jlr_complex... at 83.95%
+109	429aa, >4jpk_complex... at 70.86%
+110	440aa, >4jzj_complex... at 71.36%
+111	438aa, >4k3j_complex... at 76.48%
+112	427aa, >4k94_complex... at 70.96%
+113	446aa, >4k9e_complex... at 76.23%
+114	424aa, >4khx_complex... at 48.35%
+115	429aa, >4krp_complex... at 72.96%
+116	436aa, >4kxz_complex... at 71.10%
+117	439aa, >4leo_complex... at 71.07%
+118	430aa, >4liq_complex... at 73.02%
+119	434aa, >4lmq_complex... at 77.42%
+120	434aa, >4lqf_complex... at 53.23%
+121	434aa, >4m1g_complex... at 58.29%
+122	438aa, >4m5z_complex... at 57.53%
+123	436aa, >4n9g_complex... at 78.44%
+124	434aa, >4np4_complex... at 74.19%
+125	443aa, >4p9h_complex... at 68.17%
+126	436aa, >4ps4_complex... at 82.57%
+127	436aa, >4qnp_complex... at 55.05%
+128	435aa, >4qti_complex... at 52.64%
+129	429aa, >4rdq_complex... at 51.05%
+130	434aa, >4rgm_complex... at 54.38%
+131	432aa, >4rgo_complex... at 53.47%
+132	435aa, >4u6v_complex... at 77.47%
+133	444aa, >4wv1_complex... at 77.03%
+134	431aa, >4xnm_complex... at 55.92%
+135	436aa, >4yk4_complex... at 79.36%
+136	434aa, >4ypg_complex... at 73.73%
+137	434aa, >4z5r_complex... at 74.42%
+138	432aa, >4zff_complex... at 78.47%
+139	432aa, >4zfg_complex... at 78.47%
+140	433aa, >4zfo_complex... at 72.29%
+141	428aa, >4zpt_complex... at 51.64%
+142	432aa, >4zs7_complex... at 58.33%
+143	444aa, >5a3i_complex... at 71.17%
+144	441aa, >5b71_complex... at 77.10%
+145	436aa, >5bk1_complex... at 77.75%
+146	433aa, >5bo1_complex... at 78.98%
+147	432aa, >5bvp_complex... at 75.00%
+148	435aa, >5c0n_complex... at 55.63%
+149	433aa, >5czx_complex... at 75.06%
+150	434aa, >5d8j_complex... at 52.53%
+151	428aa, >5d93_complex... at 66.82%
+152	434aa, >5d96_complex... at 57.83%
+153	433aa, >5do2_complex... at 57.04%
+154	431aa, >5e8d_complex... at 54.52%
+155	443aa, >5e8e_complex... at 55.76%
+156	438aa, >5e94_complex... at 72.60%
+157	431aa, >5f3b_complex... at 74.71%
+158	435aa, >5fcu_complex... at 54.48%
+159	432aa, >5gzo_complex... at 79.40%
+160	438aa, >5hdq_complex... at 51.60%
+161	439aa, >5hys_complex... at 78.59%
+162	433aa, >5ies_complex... at 72.06%
+163	427aa, >5ikc_complex... at 48.71%
+164	427aa, >5jhl_complex... at 49.88%
+165	436aa, >5jq6_complex... at 74.77%
+166	431aa, >5k59_complex... at 80.74%
+167	433aa, >5kn5_complex... at 64.90%
+168	441aa, >5kvd_complex... at 53.74%
+169	440aa, >5kvf_complex... at 52.50%
+170	432aa, >5kvg_complex... at 49.54%
+171	441aa, >5kw9_complex... at 70.07%
+172	436aa, >5lqb_complex... at 53.67%
+173	438aa, >5mi0_complex... at 53.88%
+174	430aa, >5n7w_complex... at 59.53%
+175	433aa, >5nmv_complex... at 73.67%
+176	431aa, >5sx4_complex... at 76.33%
+177	430aa, >5sx5_complex... at 76.28%
+178	446aa, >5sy8_complex... at 53.81%
+179	428aa, >5t5f_complex... at 48.36%
+180	434aa, >5te4_complex... at 71.66%
+181	434aa, >5te6_complex... at 71.66%
+182	435aa, >5te7_complex... at 71.72%
+183	429aa, >5th9_complex... at 68.76%
+184	430aa, >5tru_complex... at 74.88%
+185	432aa, >5tz2_complex... at 74.54%
+186	434aa, >5tzt_complex... at 69.59%
+187	438aa, >5utz_complex... at 58.68%
+188	435aa, >5vag_complex... at 75.40%
+189	433aa, >5vpg_complex... at 56.12%
+190	433aa, >5vpl_complex... at 56.12%
+191	417aa, >5vyf_complex... at 67.63%
+192	440aa, >5w06_complex... at 69.55%
+193	436aa, >5wi9_complex... at 76.38%
+194	430aa, >5wt9_complex... at 72.09%
+195	433aa, >5wux_complex... at 77.60%
+196	436aa, >5xku_complex... at 79.59%
+197	429aa, >5xxy_complex... at 78.32%
+198	440aa, >5y11_complex... at 74.09%
+199	435aa, >6a0z_complex... at 51.49%
+200	438aa, >6a67_complex... at 56.62%
+201	425aa, >6aod_complex... at 73.65%
+202	438aa, >6b0a_complex... at 74.89%
+203	444aa, >6b0g_complex... at 68.69%
+204	433aa, >6b3s_complex... at 77.14%
+205	431aa, >6b9j_complex... at 69.14%
+206	444aa, >6bf4_complex... at 72.07%
+207	424aa, >6bit_complex... at 49.06%
+208	438aa, >6bkb_complex... at 71.69%
+209	439aa, >6bkc_complex... at 72.89%
+210	445aa, >6cmg_complex... at 70.79%
+211	434aa, >6ddm_complex... at 71.66%
+212	435aa, >6ddr_complex... at 72.64%
+213	439aa, >6ddv_complex... at 69.25%
+214	434aa, >6dkj_complex... at 75.35%
+215	426aa, >6ewb_complex... at 48.83%
+216	449aa, >6fg1_complex... at 71.27%
+217	436aa, >6fgb_complex... at 76.15%
+218	433aa, >6flc_complex... at 56.12%
+219	434aa, >6hhc_complex... at 78.11%
+220	443aa, >6iea_complex... at 57.34%
+221	441aa, >6jbt_complex... at 67.57%
+222	449aa, >6jep_complex... at 53.01%
+223	434aa, >6jjp_complex... at 74.19%
+224	431aa, >6k0y_complex... at 78.42%
+225	443aa, >6k7o_complex... at 77.20%
+226	428aa, >6mft_complex... at 71.96%
+227	437aa, >6mhr_complex... at 75.97%
+228	436aa, >6mlk_complex... at 72.94%
+229	438aa, >6mvl_complex... at 75.11%
+230	429aa, >6nha_complex... at 67.83%
+231	435aa, >6nmr_complex... at 74.48%
+232	434aa, >6nms_complex... at 74.65%
+233	428aa, >6nmt_complex... at 64.49%
+234	434aa, >6nmu_complex... at 73.50%
+235	435aa, >6o1f_complex... at 77.93%
+236	433aa, >6o39_complex... at 78.98%
+237	430aa, >6o3a_complex... at 75.12%
+238	434aa, >6o3b_complex... at 78.57%
+239	440aa, >6oc3_complex... at 77.50%
+240	440aa, >6oor_complex... at 54.09%
+241	436aa, >6otc_complex... at 77.98%
+242	437aa, >6oy4_complex... at 54.92%
+243	434aa, >6p50_complex... at 52.07%
+244	436aa, >6p67_complex... at 72.25%
+245	435aa, >6phb_complex... at 78.39%
+246	445aa, >6phc_complex... at 71.46%
+247	439aa, >6plk_complex... at 76.08%
+248	435aa, >6ppg_complex... at 74.02%
+249	438aa, >6pxh_complex... at 53.88%
+250	437aa, >6u8c_complex... at 77.12%
+251	441aa, >6uvo_complex... at 76.64%
+>Cluster 86
+0	445aa, >4c5g_complex... *
+>Cluster 87
+0	442aa, >5gy2_complex... *
+1	441aa, >6bxa_complex... at 100.00%
+2	441aa, >6bxc_complex... at 100.00%
+>Cluster 88
+0	437aa, >2b7c_complex... *
+>Cluster 89
+0	236aa, >1l0x_complex... at 67.80%
+1	236aa, >1l0y_complex... at 67.80%
+2	238aa, >1sbb_complex... at 67.23%
+3	109aa, >2aq1_complex... at 55.05%
+4	110aa, >2aq2_complex... at 56.36%
+5	109aa, >2aq3_complex... at 57.80%
+6	109aa, >3bzd_complex... at 57.80%
+7	109aa, >3mc0_complex... at 57.80%
+8	437aa, >4pj7_complex... *
+>Cluster 90
+0	47aa, >3vep_complex... at 40.43%
+1	433aa, >6m7l_complex... *
+>Cluster 91
+0	431aa, >2w19_complex... *
+>Cluster 92
+0	121aa, >1op9_complex... at 65.29%
+1	124aa, >1ri8_complex... at 60.48%
+2	126aa, >1rjc_complex... at 57.14%
+3	133aa, >1zmy_complex... at 61.65%
+4	128aa, >2x89_complex... at 60.94%
+5	122aa, >3eba_complex... at 68.03%
+6	103aa, >4hgm_complex... at 58.25%
+7	122aa, >4krl_complex... at 61.48%
+8	188aa, >4p2c_complex... at 48.40%
+9	119aa, >4pgj_complex... at 69.75%
+10	431aa, >4py8_complex... *
+11	121aa, >4weu_complex... at 65.29%
+12	222aa, >4x7s_complex... at 81.08%
+13	129aa, >5e7f_complex... at 61.24%
+14	125aa, >5imk_complex... at 67.20%
+15	125aa, >5imm_complex... at 67.20%
+16	110aa, >5ip4_complex... at 63.64%
+17	127aa, >5jds_complex... at 56.69%
+18	126aa, >5n88_complex... at 68.25%
+19	118aa, >5o05_complex... at 62.71%
+20	125aa, >5sv3_complex... at 60.00%
+21	118aa, >6j7w_complex... at 71.19%
+22	126aa, >6jb2_complex... at 52.38%
+23	125aa, >6jb8_complex... at 52.80%
+>Cluster 93
+0	421aa, >4jra_complex... at 99.76%
+1	427aa, >5jlv_complex... at 99.77%
+2	430aa, >5jmc_complex... *
+3	428aa, >5l21_complex... at 99.53%
+>Cluster 94
+0	430aa, >6f2g_complex... *
+>Cluster 95
+0	430aa, >6p7y_complex... *
+>Cluster 96
+0	427aa, >1oyh_complex... *
+>Cluster 97
+0	426aa, >6n85_complex... *
+>Cluster 98
+0	424aa, >2c1m_complex... *
+1	423aa, >2c1t_complex... at 47.99%
+2	422aa, >4pvz_complex... at 48.10%
+>Cluster 99
+0	424aa, >3wrx_complex... *
+1	424aa, >3wry_complex... at 99.76%
+>Cluster 100
+0	422aa, >3wn5_complex... *
+>Cluster 101
+0	421aa, >1wpx_complex... *
+>Cluster 102
+0	72aa, >3vyr_complex... at 80.56%
+1	421aa, >3vys_complex... *
+>Cluster 103
+0	420aa, >3olm_complex... *
+>Cluster 104
+0	419aa, >6d7g_complex... *
+>Cluster 105
+0	417aa, >3lb8_complex... *
+>Cluster 106
+0	416aa, >2vsm_complex... *
+>Cluster 107
+0	415aa, >3fie_complex... *
+>Cluster 108
+0	414aa, >2hqs_complex... *
+1	409aa, >2w8b_complex... at 99.51%
+>Cluster 109
+0	414aa, >3k3q_complex... *
+>Cluster 110
+0	410aa, >5b3h_complex... *
+>Cluster 111
+0	409aa, >4zrp_complex... *
+>Cluster 112
+0	409aa, >5oyl_complex... *
+>Cluster 113
+0	407aa, >2bp7_complex... *
+>Cluster 114
+0	407aa, >5kof_complex... *
+>Cluster 115
+0	391aa, >2y8s_complex... at 73.66%
+1	405aa, >2y8t_complex... *
+2	400aa, >4yiz_complex... at 96.25%
+>Cluster 116
+0	404aa, >6s29_complex... *
+>Cluster 117
+0	403aa, >1ava_complex... *
+>Cluster 118
+0	403aa, >3wa5_complex... *
+1	399aa, >4m5f_complex... at 99.25%
+>Cluster 119
+0	403aa, >4zgy_complex... *
+>Cluster 120
+0	402aa, >2yvj_complex... *
+>Cluster 121
+0	400aa, >5ft8_complex... *
+>Cluster 122
+0	398aa, >3zyi_complex... *
+>Cluster 123
+0	397aa, >3fhc_complex... *
+>Cluster 124
+0	397aa, >4doh_complex... *
+>Cluster 125
+0	397aa, >4z8l_complex... *
+>Cluster 126
+0	395aa, >3bp8_complex... *
+>Cluster 127
+0	395aa, >5vxz_complex... *
+>Cluster 128
+0	335aa, >2z8v_complex... at 49.25%
+1	335aa, >2z8w_complex... at 49.25%
+2	297aa, >3zwz_complex... at 60.27%
+3	305aa, >5nqf_complex... at 60.98%
+4	394aa, >5nqg_complex... *
+>Cluster 129
+0	391aa, >3he6_complex... *
+1	372aa, >3huj_complex... at 68.01%
+>Cluster 130
+0	391aa, >4c9b_complex... *
+>Cluster 131
+0	390aa, >5fqd_complex... *
+>Cluster 132
+0	389aa, >1y8n_complex... *
+1	370aa, >3crk_complex... at 57.30%
+>Cluster 133
+0	388aa, >3r9a_complex... *
+>Cluster 134
+0	386aa, >3zkq_complex... *
+>Cluster 135
+0	295aa, >2w2m_complex... at 99.66%
+1	294aa, >2w2n_complex... at 100.00%
+2	386aa, >4ov6_complex... *
+>Cluster 136
+0	386aa, >4p3y_complex... *
+>Cluster 137
+0	384aa, >3mca_complex... *
+>Cluster 138
+0	384aa, >4etp_complex... *
+>Cluster 139
+0	384aa, >4zlt_complex... *
+>Cluster 140
+0	383aa, >3nvn_complex... *
+>Cluster 141
+0	381aa, >2v3b_complex... *
+>Cluster 142
+0	306aa, >1zli_complex... at 46.73%
+1	303aa, >2abz_complex... at 42.90%
+2	307aa, >2bo9_complex... at 41.04%
+3	307aa, >3fju_complex... at 41.04%
+4	309aa, >3lms_complex... at 92.23%
+5	302aa, >4a94_complex... at 41.72%
+6	304aa, >4bd9_complex... at 41.45%
+7	381aa, >5hvf_complex... *
+8	307aa, >5mrv_complex... at 43.65%
+>Cluster 143
+0	380aa, >3gc3_complex... *
+>Cluster 144
+0	182aa, >1es0_complex... at 89.56%
+1	380aa, >4p23_complex... *
+>Cluster 145
+0	377aa, >3cqx_complex... *
+1	377aa, >3qml_complex... at 65.78%
+>Cluster 146
+0	376aa, >2xbb_complex... at 82.71%
+1	377aa, >5hpk_complex... *
+2	377aa, >5hps_complex... at 51.72%
+>Cluster 147
+0	376aa, >2b42_complex... *
+>Cluster 148
+0	376aa, >4brw_complex... *
+1	168aa, >6s8s_complex... at 77.38%
+>Cluster 149
+0	375aa, >1oph_complex... *
+1	360aa, >3b9f_complex... at 47.50%
+>Cluster 150
+0	371aa, >1atn_complex... at 100.00%
+1	371aa, >1h1v_complex... at 100.00%
+2	361aa, >1kxp_complex... at 100.00%
+3	373aa, >2btf_complex... at 93.57%
+4	373aa, >2v52_complex... at 100.00%
+5	375aa, >4b1y_complex... *
+6	369aa, >4rwt_complex... at 94.04%
+>Cluster 151
+0	374aa, >1oc0_complex... *
+>Cluster 152
+0	374aa, >3qlu_complex... *
+>Cluster 153
+0	371aa, >1de4_complex... *
+1	363aa, >4k71_complex... at 47.38%
+>Cluster 154
+0	371aa, >2nyz_complex... *
+1	371aa, >2nz1_complex... at 100.00%
+>Cluster 155
+0	369aa, >3kz1_complex... *
+>Cluster 156
+0	367aa, >5nzz_complex... *
+>Cluster 157
+0	358aa, >1nm5_complex... at 99.72%
+1	364aa, >2oor_complex... *
+>Cluster 158
+0	363aa, >4pw9_complex... *
+>Cluster 159
+0	362aa, >3sf4_complex... *
+>Cluster 160
+0	360aa, >5o0w_complex... *
+>Cluster 161
+0	358aa, >1yrt_complex... *
+1	358aa, >1yru_complex... at 100.00%
+>Cluster 162
+0	358aa, >5t5w_complex... *
+>Cluster 163
+0	348aa, >3tg1_complex... at 47.13%
+1	344aa, >3zu7_complex... at 99.13%
+2	357aa, >3zuv_complex... *
+3	355aa, >4ic7_complex... at 48.73%
+>Cluster 164
+0	354aa, >3orv_complex... *
+>Cluster 165
+0	353aa, >5kxh_complex... at 100.00%
+1	354aa, >5ky0_complex... *
+2	354aa, >5ky4_complex... at 100.00%
+3	352aa, >5ky5_complex... at 100.00%
+4	353aa, >5ky9_complex... at 100.00%
+>Cluster 166
+0	352aa, >3zwl_complex... *
+>Cluster 167
+0	352aa, >4xhu_complex... *
+>Cluster 168
+0	351aa, >3sja_complex... *
+1	300aa, >3zs8_complex... at 57.00%
+2	323aa, >3zs9_complex... at 73.37%
+3	304aa, >5bw8_complex... at 72.37%
+4	48aa, >5yr0_complex... at 41.67%
+>Cluster 169
+0	351aa, >4b0m_complex... *
+>Cluster 170
+0	348aa, >3beg_complex... *
+>Cluster 171
+0	345aa, >1w1w_complex... *
+>Cluster 172
+0	336aa, >2hd5_complex... at 100.00%
+1	335aa, >2y5b_complex... at 51.94%
+2	343aa, >6dgf_complex... *
+>Cluster 173
+0	342aa, >6fhp_complex... *
+>Cluster 174
+0	341aa, >3idb_complex... *
+1	341aa, >3idc_complex... at 100.00%
+2	331aa, >6mm6_complex... at 100.00%
+>Cluster 175
+0	47aa, >6akm_complex... at 40.43%
+1	341aa, >6o07_complex... *
+>Cluster 176
+0	340aa, >2i3s_complex... *
+1	340aa, >2i3t_complex... at 100.00%
+>Cluster 177
+0	340aa, >2oza_complex... *
+>Cluster 178
+0	340aa, >3zv0_complex... *
+>Cluster 179
+0	340aa, >4fzv_complex... *
+>Cluster 180
+0	339aa, >3rgf_complex... *
+>Cluster 181
+0	338aa, >5lpu_complex... *
+>Cluster 182
+0	335aa, >3gni_complex... *
+>Cluster 183
+0	335aa, >5w3x_complex... *
+>Cluster 184
+0	334aa, >5ohp_complex... *
+>Cluster 185
+0	333aa, >2wus_complex... *
+>Cluster 186
+0	331aa, >2pms_complex... *
+>Cluster 187
+0	331aa, >3rt0_complex... *
+1	321aa, >5gwo_complex... at 57.63%
+2	325aa, >5gwp_complex... at 56.92%
+>Cluster 188
+0	331aa, >6ch2_complex... *
+1	331aa, >6ch3_complex... at 100.00%
+>Cluster 189
+0	317aa, >3blh_complex... at 47.32%
+1	330aa, >4nst_complex... *
+>Cluster 190
+0	329aa, >1dp5_complex... *
+1	325aa, >1f34_complex... at 40.62%
+>Cluster 191
+0	328aa, >3bpl_complex... *
+>Cluster 192
+0	327aa, >1shz_complex... *
+1	316aa, >2v4z_complex... at 66.77%
+2	323aa, >3cx6_complex... at 71.83%
+3	323aa, >3cx7_complex... at 72.14%
+4	323aa, >3cx8_complex... at 72.14%
+5	316aa, >3onw_complex... at 69.30%
+6	318aa, >3qi2_complex... at 69.18%
+7	318aa, >4ekd_complex... at 50.63%
+>Cluster 193
+0	327aa, >1ul1_complex... *
+>Cluster 194
+0	327aa, >1ze3_complex... *
+>Cluster 195
+0	308aa, >2wel_complex... at 47.73%
+1	326aa, >3tac_complex... *
+>Cluster 196
+0	325aa, >2ass_complex... *
+>Cluster 197
+0	325aa, >3tvj_complex... *
+>Cluster 198
+0	322aa, >5v69_complex... *
+1	320aa, >5v6a_complex... at 100.00%
+>Cluster 199
+0	318aa, >2z58_complex... at 100.00%
+1	320aa, >3vv2_complex... *
+>Cluster 200
+0	319aa, >2es4_complex... *
+>Cluster 201
+0	317aa, >1xg2_complex... *
+>Cluster 202
+0	317aa, >4m0w_complex... *
+1	317aa, >5e6j_complex... at 98.74%
+2	312aa, >5tl6_complex... at 99.68%
+>Cluster 203
+0	317aa, >5j11_complex... *
+>Cluster 204
+0	315aa, >3p71_complex... *
+>Cluster 205
+0	307aa, >4x7d_complex... at 57.00%
+1	315aa, >4x7e_complex... *
+2	314aa, >4x7f_complex... at 100.00%
+3	315aa, >5o03_complex... at 100.00%
+4	314aa, >5omm_complex... at 100.00%
+5	315aa, >5omn_complex... at 100.00%
+>Cluster 206
+0	314aa, >4hdo_complex... *
+>Cluster 207
+0	313aa, >2ve7_complex... *
+>Cluster 208
+0	313aa, >3t6g_complex... *
+>Cluster 209
+0	312aa, >6km7_complex... *
+>Cluster 210
+0	309aa, >4uem_complex... *
+>Cluster 211
+0	304aa, >3gqi_complex... at 86.18%
+1	308aa, >5eg3_complex... *
+>Cluster 212
+0	307aa, >3qt2_complex... *
+>Cluster 213
+0	306aa, >3tl8_complex... *
+>Cluster 214
+0	305aa, >2c0l_complex... *
+>Cluster 215
+0	303aa, >1ewy_complex... *
+>Cluster 216
+0	302aa, >2iy0_complex... *
+1	226aa, >2iy1_complex... at 100.00%
+2	79aa, >3qht_complex... at 49.37%
+>Cluster 217
+0	296aa, >4yl8_complex... at 62.50%
+1	302aa, >4zrj_complex... *
+>Cluster 218
+0	302aa, >5un7_complex... *
+>Cluster 219
+0	299aa, >3ujg_complex... *
+>Cluster 220
+0	294aa, >3egg_complex... at 99.32%
+1	293aa, >3v4y_complex... at 99.66%
+2	293aa, >5inb_complex... at 97.61%
+3	293aa, >5ioh_complex... at 99.66%
+4	293aa, >5j28_complex... at 97.61%
+5	298aa, >6obn_complex... *
+>Cluster 221
+0	34aa, >1p3q_complex... at 41.18%
+1	297aa, >4h2s_complex... *
+2	295aa, >4h2w_complex... at 97.63%
+>Cluster 222
+0	295aa, >2f4m_complex... *
+>Cluster 223
+0	295aa, >3o5t_complex... *
+>Cluster 224
+0	294aa, >2b0z_complex... *
+1	294aa, >2b10_complex... at 100.00%
+2	294aa, >2b11_complex... at 100.00%
+3	294aa, >2pcb_complex... at 99.32%
+4	294aa, >2pcc_complex... at 99.32%
+>Cluster 225
+0	159aa, >4eo5_complex... at 89.94%
+1	158aa, >4uuz_complex... at 94.30%
+2	294aa, >4z2m_complex... *
+>Cluster 226
+0	293aa, >4dck_complex... *
+1	145aa, >4lzx_complex... at 100.00%
+2	135aa, >4ovn_complex... at 100.00%
+3	76aa, >5ibw_complex... at 40.79%
+4	147aa, >6mud_complex... at 97.96%
+>Cluster 227
+0	293aa, >4u97_complex... *
+>Cluster 228
+0	293aa, >6iwd_complex... *
+>Cluster 229
+0	292aa, >2j7p_complex... *
+>Cluster 230
+0	291aa, >1i4e_complex... *
+>Cluster 231
+0	291aa, >4yc7_complex... *
+>Cluster 232
+0	288aa, >6h6y_complex... at 100.00%
+1	291aa, >6h6z_complex... *
+2	288aa, >6h71_complex... at 100.00%
+>Cluster 233
+0	291aa, >6in9_complex... *
+>Cluster 234
+0	289aa, >3k8p_complex... *
+>Cluster 235
+0	289aa, >5lrw_complex... *
+>Cluster 236
+0	288aa, >5upk_complex... *
+>Cluster 237
+0	287aa, >2aep_complex... *
+1	223aa, >2aeq_complex... at 60.54%
+>Cluster 238
+0	287aa, >4s0s_complex... *
+>Cluster 239
+0	287aa, >5ee4_complex... *
+>Cluster 240
+0	285aa, >2v5q_complex... *
+>Cluster 241
+0	285aa, >4mne_complex... *
+>Cluster 242
+0	284aa, >3kbt_complex... *
+>Cluster 243
+0	283aa, >4nn6_complex... *
+>Cluster 244
+0	282aa, >5mfc_complex... *
+>Cluster 245
+0	281aa, >1lw6_complex... *
+1	274aa, >1oyv_complex... at 70.07%
+2	274aa, >1r0r_complex... at 70.07%
+3	281aa, >1tm1_complex... at 100.00%
+4	281aa, >1tm3_complex... at 100.00%
+5	281aa, >1tm4_complex... at 100.00%
+6	281aa, >1tm5_complex... at 100.00%
+7	281aa, >1tm7_complex... at 100.00%
+8	281aa, >1to1_complex... at 100.00%
+9	281aa, >1y1k_complex... at 100.00%
+10	281aa, >1y33_complex... at 100.00%
+11	281aa, >1y34_complex... at 100.00%
+12	281aa, >1y3b_complex... at 100.00%
+13	281aa, >1y3c_complex... at 100.00%
+14	281aa, >1y3d_complex... at 100.00%
+15	281aa, >1y48_complex... at 100.00%
+16	275aa, >1y4a_complex... at 100.00%
+17	276aa, >1y4d_complex... at 100.00%
+18	275aa, >2sic_complex... at 100.00%
+19	275aa, >2sni_complex... at 99.64%
+20	269aa, >3bx1_complex... at 62.08%
+21	274aa, >3qtl_complex... at 69.71%
+22	274aa, >4gi3_complex... at 69.71%
+>Cluster 246
+0	281aa, >4rs1_complex... *
+>Cluster 247
+0	275aa, >4zgq_complex... *
+>Cluster 248
+0	274aa, >1ta3_complex... *
+1	274aa, >1te1_complex... at 100.00%
+>Cluster 249
+0	274aa, >3znz_complex... *
+1	274aa, >6sak_complex... at 99.64%
+>Cluster 250
+0	272aa, >5y4r_complex... *
+>Cluster 251
+0	271aa, >1tdq_complex... *
+>Cluster 252
+0	271aa, >4tq0_complex... *
+1	269aa, >4tq1_complex... at 99.63%
+>Cluster 253
+0	270aa, >4ap2_complex... *
+>Cluster 254
+0	267aa, >6fuz_complex... at 98.13%
+1	270aa, >6fv0_complex... *
+>Cluster 255
+0	269aa, >3wwn_complex... *
+>Cluster 256
+0	269aa, >4jgh_complex... *
+>Cluster 257
+0	268aa, >6oan_complex... *
+>Cluster 258
+0	265aa, >5uv8_complex... at 98.87%
+1	267aa, >5uwc_complex... *
+>Cluster 259
+0	265aa, >5g15_complex... at 99.25%
+1	253aa, >5l8j_complex... at 100.00%
+2	266aa, >5lxm_complex... *
+3	263aa, >6c83_complex... at 99.24%
+>Cluster 260
+0	262aa, >1jtd_complex... at 68.32%
+1	263aa, >1jtg_complex... at 67.68%
+2	265aa, >2g2u_complex... *
+3	265aa, >2g2w_complex... at 99.62%
+4	265aa, >3c4o_complex... at 100.00%
+5	265aa, >3c4p_complex... at 100.00%
+6	261aa, >3e2k_complex... at 41.76%
+7	260aa, >3e2l_complex... at 41.92%
+8	261aa, >3gmw_complex... at 68.20%
+9	265aa, >3n4i_complex... at 99.62%
+10	263aa, >5npo_complex... at 68.06%
+>Cluster 261
+0	265aa, >6fpg_complex... *
+>Cluster 262
+0	265aa, >6ib8_complex... *
+>Cluster 263
+0	264aa, >1xqs_complex... *
+>Cluster 264
+0	261aa, >4lgp_complex... at 98.85%
+1	255aa, >4lgr_complex... at 100.00%
+2	258aa, >4z9k_complex... at 100.00%
+3	255aa, >5j56_complex... at 100.00%
+4	264aa, >5j57_complex... *
+5	255aa, >5u4m_complex... at 100.00%
+6	260aa, >6cwg_complex... at 100.00%
+>Cluster 265
+0	263aa, >3d7t_complex... *
+>Cluster 266
+0	263aa, >4cc4_complex... *
+>Cluster 267
+0	262aa, >1rke_complex... *
+>Cluster 268
+0	258aa, >4wem_complex... at 100.00%
+1	262aa, >4wen_complex... *
+>Cluster 269
+0	262aa, >5jw7_complex... *
+>Cluster 270
+0	250aa, >1ijk_complex... at 41.60%
+1	261aa, >1v7p_complex... *
+2	135aa, >3wwk_complex... at 45.93%
+>Cluster 271
+0	259aa, >1avg_complex... *
+1	254aa, >1bth_complex... at 88.19%
+2	259aa, >1hrt_complex... at 100.00%
+3	256aa, >1id5_complex... at 100.00%
+4	259aa, >1jmo_complex... at 86.87%
+5	259aa, >1tbr_complex... at 100.00%
+6	255aa, >2ody_complex... at 100.00%
+>Cluster 272
+0	259aa, >4awx_complex... *
+>Cluster 273
+0	259aa, >6ird_complex... *
+>Cluster 274
+0	258aa, >3cqc_complex... *
+1	235aa, >3cqg_complex... at 62.13%
+>Cluster 275
+0	258aa, >3qhy_complex... *
+>Cluster 276
+0	258aa, >4pbv_complex... *
+>Cluster 277
+0	258aa, >4w4l_complex... *
+>Cluster 278
+0	256aa, >1usu_complex... *
+1	256aa, >1usv_complex... at 99.22%
+>Cluster 279
+0	255aa, >4etw_complex... *
+>Cluster 280
+0	254aa, >1fak_complex... *
+1	241aa, >1kig_complex... at 41.91%
+2	235aa, >1p0s_complex... at 40.00%
+>Cluster 281
+0	254aa, >3k9m_complex... *
+>Cluster 282
+0	253aa, >1gpw_complex... *
+>Cluster 283
+0	253aa, >2ot3_complex... *
+>Cluster 284
+0	253aa, >5tvq_complex... *
+>Cluster 285
+0	251aa, >4hh3_complex... *
+>Cluster 286
+0	251aa, >4k81_complex... *
+>Cluster 287
+0	251aa, >5xfs_complex... *
+>Cluster 288
+0	250aa, >4hcn_complex... *
+1	250aa, >4hcp_complex... at 100.00%
+>Cluster 289
+0	250aa, >4imy_complex... *
+>Cluster 290
+0	233aa, >6j4o_complex... at 98.71%
+1	250aa, >6j4s_complex... *
+>Cluster 291
+0	241aa, >1eaw_complex... at 42.32%
+1	249aa, >1l4d_complex... *
+2	248aa, >1l4z_complex... at 100.00%
+3	224aa, >2r9p_complex... at 45.09%
+4	224aa, >2ra3_complex... at 44.64%
+5	224aa, >3l33_complex... at 45.09%
+6	224aa, >3p92_complex... at 45.09%
+7	224aa, >3p95_complex... at 45.09%
+8	247aa, >3uir_complex... at 99.60%
+9	224aa, >4dg4_complex... at 45.09%
+10	224aa, >4u30_complex... at 45.09%
+11	224aa, >5c67_complex... at 45.09%
+12	224aa, >6bx8_complex... at 45.09%
+13	224aa, >6gfi_complex... at 45.09%
+14	224aa, >6har_complex... at 45.09%
+>Cluster 292
+0	248aa, >1wdw_complex... *
+>Cluster 293
+0	248aa, >5f1b_complex... *
+>Cluster 294
+0	246aa, >5hgg_complex... at 71.14%
+1	247aa, >5lhn_complex... *
+>Cluster 295
+0	246aa, >2efd_complex... *
+1	246aa, >2efh_complex... at 99.59%
+2	237aa, >4g01_complex... at 100.00%
+>Cluster 296
+0	246aa, >5aoq_complex... *
+>Cluster 297
+0	241aa, >1acb_complex... at 100.00%
+1	222aa, >1an1_complex... at 46.40%
+2	223aa, >1avx_complex... at 45.74%
+3	222aa, >1c9p_complex... at 46.40%
+4	223aa, >1d6r_complex... at 43.95%
+5	223aa, >1eja_complex... at 45.74%
+6	223aa, >1f5r_complex... at 44.39%
+7	223aa, >1f7z_complex... at 45.74%
+8	223aa, >1fy8_complex... at 44.84%
+9	245aa, >1gl0_complex... *
+10	245aa, >1gl1_complex... at 100.00%
+11	223aa, >1ldt_complex... at 45.74%
+12	223aa, >1taw_complex... at 43.95%
+13	223aa, >1zr0_complex... at 43.95%
+14	222aa, >2ftl_complex... at 44.59%
+15	223aa, >2ftm_complex... at 43.95%
+16	223aa, >2g81_complex... at 43.95%
+17	223aa, >2ptc_complex... at 43.95%
+18	223aa, >2tgp_complex... at 43.95%
+19	223aa, >2uuy_complex... at 43.95%
+20	245aa, >2y6t_complex... at 100.00%
+21	223aa, >3fp6_complex... at 45.74%
+22	223aa, >3rdz_complex... at 43.95%
+23	222aa, >3tgk_complex... at 44.59%
+24	223aa, >4an7_complex... at 45.74%
+25	223aa, >4aoq_complex... at 43.95%
+26	223aa, >4aor_complex... at 43.95%
+27	223aa, >4doq_complex... at 45.74%
+28	223aa, >6dwf_complex... at 43.95%
+29	223aa, >6dwh_complex... at 43.95%
+>Cluster 298
+0	245aa, >1i3o_complex... *
+1	234aa, >2xzd_complex... at 99.57%
+2	234aa, >2y0b_complex... at 99.57%
+3	235aa, >4jb8_complex... at 56.17%
+>Cluster 299
+0	245aa, >1yc0_complex... *
+>Cluster 300
+0	167aa, >3g3a_complex... at 44.31%
+1	169aa, >3g3b_complex... at 42.60%
+2	245aa, >3m18_complex... *
+>Cluster 301
+0	245aa, >5d28_complex... *
+>Cluster 302
+0	245aa, >5ovw_complex... *
+>Cluster 303
+0	244aa, >5bt1_complex... *
+>Cluster 304
+0	243aa, >1e3u_complex... *
+>Cluster 305
+0	243aa, >2o8v_complex... *
+>Cluster 306
+0	243aa, >3f5c_complex... *
+>Cluster 307
+0	243aa, >4ons_complex... *
+>Cluster 308
+0	242aa, >1nez_complex... *
+>Cluster 309
+0	241aa, >1yvb_complex... *
+1	241aa, >2oul_complex... at 100.00%
+2	240aa, >3pnr_complex... at 99.58%
+>Cluster 310
+0	241aa, >2o3b_complex... *
+>Cluster 311
+0	224aa, >1bvk_complex... at 52.68%
+1	238aa, >1dzb_complex... at 53.36%
+2	231aa, >1nma_complex... at 53.25%
+3	238aa, >2xtj_complex... at 68.07%
+4	229aa, >2ybr_complex... at 62.45%
+5	241aa, >3lh2_complex... *
+6	235aa, >3lhp_complex... at 99.57%
+7	226aa, >3uyp_complex... at 56.64%
+8	240aa, >4m62_complex... at 83.33%
+9	232aa, >4m8q_complex... at 85.34%
+10	237aa, >4r8w_complex... at 67.09%
+11	232aa, >4uu9_complex... at 50.86%
+12	224aa, >5ngv_complex... at 58.04%
+13	224aa, >5nh3_complex... at 58.04%
+14	233aa, >5xj4_complex... at 67.81%
+15	230aa, >5xmh_complex... at 79.13%
+16	227aa, >5xwd_complex... at 48.90%
+17	234aa, >5yoy_complex... at 64.96%
+18	223aa, >6a3w_complex... at 47.53%
+19	229aa, >6a78_complex... at 48.47%
+20	231aa, >6a79_complex... at 47.62%
+21	231aa, >6h3t_complex... at 57.58%
+22	226aa, >6ivz_complex... at 56.64%
+23	239aa, >6j11_complex... at 55.23%
+24	229aa, >6j14_complex... at 55.90%
+25	228aa, >6j5d_complex... at 53.95%
+26	228aa, >6j5f_complex... at 53.95%
+>Cluster 312
+0	241aa, >4f48_complex... *
+>Cluster 313
+0	241aa, >6hul_complex... *
+>Cluster 314
+0	240aa, >1fle_complex... *
+>Cluster 315
+0	239aa, >6fq0_complex... *
+>Cluster 316
+0	238aa, >1rvj_complex... *
+>Cluster 317
+0	238aa, >1xx9_complex... *
+1	238aa, >1xxd_complex... at 99.16%
+2	237aa, >1zjd_complex... at 98.73%
+>Cluster 318
+0	227aa, >1ib1_complex... at 66.08%
+1	237aa, >2o98_complex... *
+2	230aa, >6u2h_complex... at 66.09%
+>Cluster 319
+0	237aa, >5dob_complex... *
+>Cluster 320
+0	233aa, >5f4e_complex... at 100.00%
+1	237aa, >5jke_complex... *
+>Cluster 321
+0	237aa, >5wpa_complex... *
+>Cluster 322
+0	235aa, >2q0o_complex... *
+>Cluster 323
+0	232aa, >2ijo_complex... *
+1	54aa, >4u32_complex... at 44.44%
+>Cluster 324
+0	231aa, >3f7p_complex... *
+>Cluster 325
+0	148aa, >2zvn_complex... at 52.70%
+1	149aa, >2zvo_complex... at 52.35%
+2	231aa, >4q5e_complex... *
+3	223aa, >5h07_complex... at 40.81%
+4	148aa, >6n6r_complex... at 52.70%
+>Cluster 326
+0	230aa, >1hia_complex... *
+>Cluster 327
+0	230aa, >2j8x_complex... *
+1	230aa, >5ays_complex... at 41.74%
+>Cluster 328
+0	229aa, >1xd3_complex... *
+1	223aa, >3kw5_complex... at 55.16%
+2	227aa, >6isu_complex... at 100.00%
+>Cluster 329
+0	229aa, >3mj7_complex... *
+>Cluster 330
+0	229aa, >3zet_complex... *
+1	225aa, >3zeu_complex... at 99.56%
+>Cluster 331
+0	229aa, >4i6l_complex... *
+>Cluster 332
+0	229aa, >4xxw_complex... *
+>Cluster 333
+0	224aa, >3ogo_complex... at 100.00%
+1	226aa, >4xl5_complex... at 100.00%
+2	227aa, >5ma3_complex... at 100.00%
+3	229aa, >5ma4_complex... *
+4	227aa, >5ma5_complex... at 100.00%
+5	226aa, >5ma6_complex... at 100.00%
+6	227aa, >5mak_complex... at 100.00%
+>Cluster 334
+0	226aa, >1azz_complex... *
+>Cluster 335
+0	226aa, >4afq_complex... *
+1	226aa, >4afz_complex... at 100.00%
+2	226aa, >4ag2_complex... at 100.00%
+>Cluster 336
+0	226aa, >5nus_complex... *
+>Cluster 337
+0	226aa, >6m9k_complex... *
+>Cluster 338
+0	225aa, >6f3z_complex... *
+>Cluster 339
+0	225aa, >6fp7_complex... *
+>Cluster 340
+0	73aa, >1yd8_complex... at 100.00%
+1	73aa, >2hth_complex... at 100.00%
+2	75aa, >2qho_complex... at 100.00%
+3	72aa, >2wx0_complex... at 100.00%
+4	150aa, >3b08_complex... at 58.67%
+5	76aa, >3vux_complex... at 100.00%
+6	151aa, >3wwq_complex... at 58.94%
+7	223aa, >4v3k_complex... at 64.57%
+8	72aa, >4xkh_complex... at 100.00%
+9	78aa, >4xkl_complex... at 97.44%
+10	148aa, >5gvi_complex... at 58.11%
+11	75aa, >5ydr_complex... at 97.33%
+12	150aa, >5ywr_complex... at 98.00%
+13	76aa, >6asr_complex... at 100.00%
+14	225aa, >6s53_complex... *
+>Cluster 341
+0	223aa, >1ugh_complex... at 100.00%
+1	221aa, >1uug_complex... at 56.56%
+2	216aa, >3wdg_complex... at 46.30%
+3	223aa, >4lyl_complex... at 76.23%
+4	224aa, >5ayr_complex... *
+>Cluster 342
+0	223aa, >6kbr_complex... *
+>Cluster 343
+0	222aa, >6isc_complex... at 53.15%
+1	223aa, >6o3o_complex... *
+>Cluster 344
+0	222aa, >4n7v_complex... *
+>Cluster 345
+0	175aa, >1icf_complex... at 80.00%
+1	220aa, >3h6s_complex... *
+>Cluster 346
+0	220aa, >6imf_complex... *
+>Cluster 347
+0	107aa, >5eo9_complex... at 53.27%
+1	201aa, >6eg0_complex... at 51.74%
+2	219aa, >6eg1_complex... *
+3	108aa, >6nrw_complex... at 61.11%
+>Cluster 348
+0	218aa, >1cn4_complex... *
+>Cluster 349
+0	218aa, >2z7f_complex... *
+1	218aa, >4nzl_complex... at 100.00%
+>Cluster 350
+0	216aa, >4ln0_complex... at 82.41%
+1	218aa, >4re1_complex... *
+2	218aa, >5oaq_complex... at 81.65%
+>Cluster 351
+0	217aa, >3g9w_complex... *
+>Cluster 352
+0	216aa, >4zk9_complex... *
+>Cluster 353
+0	207aa, >2iwg_complex... at 100.00%
+1	215aa, >3ay4_complex... at 100.00%
+2	209aa, >3sgk_complex... at 99.52%
+3	208aa, >3zo0_complex... at 63.94%
+4	215aa, >4w4o_complex... at 98.60%
+5	212aa, >5bw7_complex... at 99.06%
+6	214aa, >5o4e_complex... at 87.38%
+7	212aa, >5u4y_complex... at 97.64%
+8	209aa, >5u52_complex... at 98.56%
+9	216aa, >5vu0_complex... *
+10	211aa, >5yc5_complex... at 99.53%
+11	209aa, >6fgo_complex... at 98.09%
+>Cluster 354
+0	213aa, >4dt1_complex... *
+>Cluster 355
+0	213aa, >4p1n_complex... *
+>Cluster 356
+0	212aa, >1djs_complex... *
+>Cluster 357
+0	212aa, >3bik_complex... *
+>Cluster 358
+0	212aa, >3oiq_complex... *
+>Cluster 359
+0	211aa, >4lrz_complex... *
+>Cluster 360
+0	210aa, >1xt9_complex... *
+>Cluster 361
+0	210aa, >5jh5_complex... *
+>Cluster 362
+0	210aa, >6ff3_complex... *
+>Cluster 363
+0	209aa, >5z2w_complex... *
+>Cluster 364
+0	208aa, >4apx_complex... *
+1	206aa, >4aqe_complex... at 99.51%
+>Cluster 365
+0	208aa, >5kwy_complex... *
+>Cluster 366
+0	207aa, >1lqs_complex... *
+>Cluster 367
+0	207aa, >1us7_complex... *
+>Cluster 368
+0	207aa, >2h62_complex... *
+1	105aa, >2h64_complex... at 97.14%
+2	103aa, >2qj9_complex... at 100.00%
+3	104aa, >2qja_complex... at 100.00%
+4	104aa, >2qjb_complex... at 100.00%
+5	104aa, >3bk3_complex... at 98.08%
+6	109aa, >3hh2_complex... at 41.28%
+7	104aa, >4ui0_complex... at 100.00%
+8	104aa, >4ui1_complex... at 100.00%
+>Cluster 369
+0	207aa, >3c9a_complex... *
+>Cluster 370
+0	207aa, >4iu3_complex... *
+>Cluster 371
+0	170aa, >1i2m_complex... at 100.00%
+1	169aa, >1ibr_complex... at 100.00%
+2	206aa, >1k5d_complex... *
+3	199aa, >3ch5_complex... at 99.50%
+4	172aa, >4ol0_complex... at 100.00%
+>Cluster 372
+0	206aa, >1ktk_complex... *
+>Cluster 373
+0	205aa, >1zhi_complex... *
+>Cluster 374
+0	205aa, >4g6u_complex... *
+1	124aa, >4zqu_complex... at 66.94%
+>Cluster 375
+0	205aa, >4i9x_complex... *
+>Cluster 376
+0	204aa, >4plo_complex... *
+>Cluster 377
+0	204aa, >5ee5_complex... *
+>Cluster 378
+0	204aa, >5hlz_complex... *
+>Cluster 379
+0	203aa, >4auq_complex... *
+1	146aa, >5d1k_complex... at 97.95%
+2	146aa, >5d1l_complex... at 97.95%
+3	146aa, >5d1m_complex... at 97.95%
+4	149aa, >6d4p_complex... at 85.23%
+5	63aa, >6hpr_complex... at 66.67%
+>Cluster 380
+0	203aa, >5jem_complex... *
+>Cluster 381
+0	198aa, >1sq0_complex... at 98.99%
+1	202aa, >4c2a_complex... *
+2	197aa, >4c2b_complex... at 97.97%
+>Cluster 382
+0	202aa, >4iyp_complex... *
+>Cluster 383
+0	201aa, >1pvh_complex... *
+>Cluster 384
+0	201aa, >2f9z_complex... *
+>Cluster 385
+0	201aa, >5hpy_complex... *
+>Cluster 386
+0	200aa, >1i4d_complex... *
+>Cluster 387
+0	200aa, >3rpg_complex... *
+1	107aa, >4s3o_complex... at 94.39%
+>Cluster 388
+0	200aa, >5z78_complex... *
+1	180aa, >6co2_complex... at 61.11%
+>Cluster 389
+0	200aa, >6saz_complex... *
+>Cluster 390
+0	199aa, >1i8l_complex... *
+>Cluster 391
+0	198aa, >3g9v_complex... *
+>Cluster 392
+0	198aa, >4dzu_complex... *
+>Cluster 393
+0	197aa, >3w8h_complex... at 100.00%
+1	193aa, >3w8i_complex... at 100.00%
+2	198aa, >4geh_complex... *
+>Cluster 394
+0	193aa, >6pnp_complex... at 97.93%
+1	198aa, >6pnq_complex... *
+>Cluster 395
+0	195aa, >1xwd_complex... at 98.46%
+1	197aa, >4mqw_complex... *
+>Cluster 396
+0	197aa, >4noo_complex... *
+>Cluster 397
+0	196aa, >1u7f_complex... *
+1	196aa, >1u7v_complex... at 96.94%
+2	188aa, >5c4v_complex... at 48.40%
+3	194aa, >5xoc_complex... at 96.39%
+>Cluster 398
+0	196aa, >6i2m_complex... *
+>Cluster 399
+0	195aa, >1go4_complex... *
+>Cluster 400
+0	195aa, >6gjq_complex... *
+>Cluster 401
+0	178aa, >1e96_complex... at 71.91%
+1	191aa, >1grn_complex... at 98.43%
+2	194aa, >1nf3_complex... *
+3	177aa, >2fju_complex... at 71.19%
+4	177aa, >2w2x_complex... at 69.49%
+5	178aa, >3eg5_complex... at 98.31%
+6	177aa, >3qbv_complex... at 98.31%
+7	179aa, >4d0n_complex... at 53.63%
+8	179aa, >4did_complex... at 98.88%
+9	164aa, >4dvg_complex... at 45.12%
+10	190aa, >4f38_complex... at 52.11%
+11	181aa, >4mit_complex... at 53.04%
+12	177aa, >4xoi_complex... at 54.80%
+13	190aa, >5fr1_complex... at 52.11%
+>Cluster 402
+0	194aa, >4nso_complex... *
+>Cluster 403
+0	194aa, >5uk5_complex... *
+>Cluster 404
+0	156aa, >4k5b_complex... at 50.00%
+1	160aa, >5mad_complex... at 50.00%
+2	161aa, >6moe_complex... at 46.58%
+3	193aa, >6ne2_complex... at 98.45%
+4	194aa, >6ne4_complex... *
+>Cluster 405
+0	193aa, >5o74_complex... *
+>Cluster 406
+0	193aa, >5w9a_complex... *
+>Cluster 407
+0	193aa, >5xqz_complex... *
+>Cluster 408
+0	192aa, >3k1r_complex... *
+1	190aa, >5f3x_complex... at 99.47%
+>Cluster 409
+0	191aa, >1a22_complex... *
+1	189aa, >1axi_complex... at 96.83%
+>Cluster 410
+0	191aa, >1ycs_complex... *
+>Cluster 411
+0	191aa, >2ij0_complex... *
+>Cluster 412
+0	82aa, >1ktz_complex... at 100.00%
+1	191aa, >2pjy_complex... *
+2	112aa, >4kv5_complex... at 76.79%
+>Cluster 413
+0	190aa, >5ibk_complex... *
+>Cluster 414
+0	165aa, >1j2j_complex... at 46.06%
+1	165aa, >2j59_complex... at 46.06%
+2	161aa, >2w83_complex... at 46.58%
+3	161aa, >3bh6_complex... at 54.04%
+4	189aa, >3doe_complex... *
+5	159aa, >3tjz_complex... at 49.06%
+6	162aa, >3vhx_complex... at 46.30%
+7	175aa, >4zi2_complex... at 53.71%
+8	175aa, >4zi3_complex... at 53.71%
+>Cluster 415
+0	189aa, >4k1r_complex... *
+1	186aa, >4msm_complex... at 99.46%
+2	185aa, >4pqt_complex... at 99.46%
+>Cluster 416
+0	181aa, >1kgy_complex... at 44.20%
+1	188aa, >2hle_complex... *
+2	178aa, >2wo2_complex... at 45.51%
+3	176aa, >2wo3_complex... at 46.02%
+4	175aa, >3gxu_complex... at 46.29%
+5	175aa, >4l0p_complex... at 42.29%
+>Cluster 417
+0	188aa, >6fg8_complex... *
+>Cluster 418
+0	187aa, >4m6b_complex... *
+>Cluster 419
+0	186aa, >3mzg_complex... *
+1	186aa, >3n06_complex... at 99.46%
+2	186aa, >3n0p_complex... at 99.46%
+3	186aa, >3ncb_complex... at 99.46%
+4	186aa, >3ncc_complex... at 100.00%
+>Cluster 420
+0	186aa, >5t0f_complex... *
+>Cluster 421
+0	185aa, >1kac_complex... *
+1	185aa, >1p6a_complex... at 99.46%
+>Cluster 422
+0	185aa, >3sgb_complex... *
+>Cluster 423
+0	185aa, >4ds8_complex... *
+>Cluster 424
+0	184aa, >3t1q_complex... *
+>Cluster 425
+0	167aa, >1gua_complex... at 58.68%
+1	166aa, >1nvu_complex... at 92.77%
+2	173aa, >1uad_complex... at 53.18%
+3	166aa, >1wq1_complex... at 93.37%
+4	173aa, >1zc3_complex... at 52.60%
+5	173aa, >1zc4_complex... at 52.60%
+6	166aa, >3ddc_complex... at 92.17%
+7	167aa, >3kuc_complex... at 58.68%
+8	165aa, >3kud_complex... at 93.33%
+9	168aa, >4dxa_complex... at 55.95%
+10	168aa, >4kvg_complex... at 57.14%
+11	164aa, >5o2t_complex... at 98.78%
+12	184aa, >5tar_complex... *
+13	166aa, >5ufe_complex... at 99.40%
+14	166aa, >5ufq_complex... at 98.80%
+15	168aa, >6h46_complex... at 97.62%
+16	166aa, >6h47_complex... at 98.80%
+>Cluster 426
+0	183aa, >1pxv_complex... *
+>Cluster 427
+0	183aa, >5nvk_complex... *
+1	172aa, >5nvl_complex... at 97.67%
+2	169aa, >5nvm_complex... at 100.00%
+3	179aa, >5nvn_complex... at 97.21%
+>Cluster 428
+0	182aa, >5abv_complex... at 42.86%
+1	183aa, >6fc2_complex... *
+2	179aa, >6fc3_complex... at 100.00%
+>Cluster 429
+0	182aa, >2j12_complex... *
+>Cluster 430
+0	182aa, >3h2u_complex... *
+1	180aa, >3h2v_complex... at 100.00%
+>Cluster 431
+0	178aa, >3v96_complex... at 42.70%
+1	182aa, >4ilw_complex... *
+>Cluster 432
+0	181aa, >5ifs_complex... *
+>Cluster 433
+0	180aa, >2wp0_complex... *
+>Cluster 434
+0	180aa, >3aon_complex... *
+>Cluster 435
+0	174aa, >1t0p_complex... at 96.55%
+1	180aa, >3bn3_complex... *
+>Cluster 436
+0	180aa, >4fq0_complex... *
+>Cluster 437
+0	180aa, >5b64_complex... *
+>Cluster 438
+0	179aa, >5fug_complex... *
+>Cluster 439
+0	177aa, >1kkl_complex... *
+>Cluster 440
+0	177aa, >2hrk_complex... *
+>Cluster 441
+0	177aa, >2wd5_complex... *
+>Cluster 442
+0	170aa, >3qc8_complex... at 96.47%
+1	177aa, >3qq8_complex... *
+2	166aa, >4kdi_complex... at 99.40%
+3	165aa, >5x4l_complex... at 96.97%
+>Cluster 443
+0	177aa, >5f5s_complex... *
+>Cluster 444
+0	176aa, >2wy3_complex... *
+>Cluster 445
+0	174aa, >4gh7_complex... at 88.51%
+1	176aa, >5n47_complex... *
+2	175aa, >5n48_complex... at 89.14%
+>Cluster 446
+0	175aa, >4qlp_complex... *
+>Cluster 447
+0	169aa, >1z0k_complex... at 43.79%
+1	170aa, >2wwx_complex... at 57.65%
+2	170aa, >3jza_complex... at 57.65%
+3	170aa, >3qbt_complex... at 75.29%
+4	171aa, >3tkl_complex... at 57.89%
+5	170aa, >3tnf_complex... at 75.88%
+6	167aa, >4c4p_complex... at 47.31%
+7	167aa, >4d0g_complex... at 44.31%
+8	174aa, >4ojk_complex... at 44.83%
+9	174aa, >5szi_complex... at 75.86%
+10	175aa, >5szj_complex... *
+>Cluster 448
+0	174aa, >4j2y_complex... *
+>Cluster 449
+0	165aa, >1ak4_complex... at 55.15%
+1	173aa, >1mzw_complex... *
+2	163aa, >2x2d_complex... at 55.21%
+3	164aa, >4dge_complex... at 54.88%
+4	169aa, >4lqw_complex... at 51.48%
+>Cluster 450
+0	173aa, >5nt1_complex... *
+>Cluster 451
+0	172aa, >4g59_complex... *
+1	35aa, >5jw9_complex... at 40.00%
+>Cluster 452
+0	172aa, >4qxa_complex... *
+>Cluster 453
+0	172aa, >5ml9_complex... *
+1	171aa, >5mn2_complex... at 99.42%
+>Cluster 454
+0	172aa, >6gtq_complex... *
+>Cluster 455
+0	171aa, >1fqj_complex... *
+>Cluster 456
+0	171aa, >3ixe_complex... *
+>Cluster 457
+0	159aa, >2j0t_complex... at 48.43%
+1	171aa, >3ma2_complex... *
+2	161aa, >6mav_complex... at 51.55%
+3	161aa, >6n9d_complex... at 51.55%
+>Cluster 458
+0	161aa, >4dkd_complex... at 79.50%
+1	171aa, >4exp_complex... *
+>Cluster 459
+0	171aa, >4llo_complex... *
+>Cluster 460
+0	171aa, >5oen_complex... *
+>Cluster 461
+0	170aa, >2a78_complex... *
+1	170aa, >2a9k_complex... at 100.00%
+2	170aa, >6amb_complex... at 52.94%
+>Cluster 462
+0	169aa, >3jsv_complex... *
+>Cluster 463
+0	169aa, >4bkx_complex... *
+>Cluster 464
+0	168aa, >1gla_complex... *
+>Cluster 465
+0	168aa, >4yn0_complex... *
+>Cluster 466
+0	167aa, >3mjh_complex... *
+>Cluster 467
+0	166aa, >1eer_complex... *
+>Cluster 468
+0	166aa, >2y9m_complex... *
+>Cluster 469
+0	166aa, >4ng2_complex... *
+>Cluster 470
+0	166aa, >4xxb_complex... *
+>Cluster 471
+0	165aa, >5dmj_complex... *
+>Cluster 472
+0	164aa, >4b93_complex... *
+>Cluster 473
+0	164aa, >4k5a_complex... *
+1	149aa, >5jsn_complex... at 46.31%
+>Cluster 474
+0	164aa, >5v5g_complex... *
+1	162aa, >5v5h_complex... at 99.38%
+2	161aa, >5v5i_complex... at 99.38%
+>Cluster 475
+0	163aa, >2cjs_complex... *
+>Cluster 476
+0	163aa, >4kgg_complex... *
+>Cluster 477
+0	163aa, >4lad_complex... *
+1	156aa, >6d68_complex... at 49.36%
+>Cluster 478
+0	137aa, >3hg0_complex... at 95.62%
+1	130aa, >4hem_complex... at 100.00%
+2	162aa, >4hep_complex... *
+3	99aa, >4ios_complex... at 100.00%
+>Cluster 479
+0	162aa, >5me5_complex... *
+>Cluster 480
+0	152aa, >6mgp_complex... at 40.79%
+1	162aa, >6mkz_complex... *
+>Cluster 481
+0	161aa, >3vza_complex... *
+>Cluster 482
+0	36aa, >3f4y_complex... at 91.67%
+1	36aa, >3g7a_complex... at 91.67%
+2	161aa, >6r2g_complex... *
+>Cluster 483
+0	160aa, >2wg3_complex... *
+1	150aa, >3d1m_complex... at 77.33%
+>Cluster 484
+0	157aa, >4hff_complex... at 54.14%
+1	160aa, >4hfk_complex... *
+2	160aa, >4j32_complex... at 53.75%
+>Cluster 485
+0	156aa, >2uyz_complex... at 99.36%
+1	159aa, >3a4s_complex... *
+2	155aa, >6gum_complex... at 65.16%
+>Cluster 486
+0	159aa, >4eig_complex... *
+1	159aa, >4eiz_complex... at 100.00%
+>Cluster 487
+0	73aa, >4jw2_complex... at 80.82%
+1	159aa, >5dcq_complex... *
+>Cluster 488
+0	159aa, >5nt7_complex... *
+>Cluster 489
+0	158aa, >1f3v_complex... *
+>Cluster 490
+0	158aa, >3ona_complex... *
+>Cluster 491
+0	158aa, >4dh2_complex... *
+>Cluster 492
+0	156aa, >3me2_complex... *
+1	155aa, >3qbq_complex... at 100.00%
+2	155aa, >4giq_complex... at 100.00%
+3	156aa, >5bnq_complex... at 90.38%
+>Cluster 493
+0	156aa, >4oyd_complex... *
+>Cluster 494
+0	156aa, >5k22_complex... *
+>Cluster 495
+0	153aa, >4c99_complex... at 99.35%
+1	155aa, >4cdk_complex... *
+>Cluster 496
+0	153aa, >2b4j_complex... *
+>Cluster 497
+0	153aa, >4xwj_complex... *
+>Cluster 498
+0	152aa, >3it8_complex... *
+1	148aa, >5m2i_complex... at 99.32%
+2	149aa, >5m2j_complex... at 99.33%
+3	151aa, >5m2m_complex... at 99.34%
+>Cluster 499
+0	152aa, >3k75_complex... *
+>Cluster 500
+0	152aa, >4gaf_complex... *
+>Cluster 501
+0	151aa, >5jsb_complex... *
+1	150aa, >6qb3_complex... at 94.00%
+>Cluster 502
+0	150aa, >1j7v_complex... *
+1	145aa, >1y6k_complex... at 100.00%
+2	142aa, >1y6m_complex... at 92.25%
+3	137aa, >1y6n_complex... at 91.97%
+>Cluster 503
+0	149aa, >2aze_complex... *
+>Cluster 504
+0	149aa, >2fdb_complex... *
+>Cluster 505
+0	149aa, >4j6g_complex... *
+1	149aa, >4kgq_complex... at 95.97%
+>Cluster 506
+0	149aa, >4nqw_complex... *
+>Cluster 507
+0	148aa, >3ejj_complex... *
+>Cluster 508
+0	148aa, >3ux9_complex... *
+>Cluster 509
+0	148aa, >4kfz_complex... *
+>Cluster 510
+0	148aa, >5eb1_complex... *
+>Cluster 511
+0	148aa, >5szh_complex... *
+1	148aa, >5szk_complex... at 98.65%
+>Cluster 512
+0	147aa, >4euk_complex... *
+>Cluster 513
+0	63aa, >1h59_complex... at 100.00%
+1	146aa, >2dsq_complex... *
+2	138aa, >2dsr_complex... at 53.62%
+>Cluster 514
+0	146aa, >3vpj_complex... *
+1	146aa, >4eqa_complex... at 98.63%
+>Cluster 515
+0	146aa, >3w6j_complex... *
+>Cluster 516
+0	146aa, >4kt3_complex... *
+>Cluster 517
+0	142aa, >4w6w_complex... at 100.00%
+1	142aa, >4w6x_complex... at 100.00%
+2	146aa, >4w6y_complex... *
+>Cluster 518
+0	135aa, >3oj2_complex... at 100.00%
+1	145aa, >3ojm_complex... *
+>Cluster 519
+0	144aa, >1p27_complex... *
+>Cluster 520
+0	144aa, >1t44_complex... *
+>Cluster 521
+0	144aa, >4uyp_complex... *
+1	144aa, >4uyq_complex... at 100.00%
+>Cluster 522
+0	144aa, >5djt_complex... *
+>Cluster 523
+0	142aa, >1r6q_complex... *
+>Cluster 524
+0	142aa, >3ul4_complex... *
+>Cluster 525
+0	141aa, >3dgc_complex... *
+>Cluster 526
+0	141aa, >3q9n_complex... *
+1	141aa, >3q9u_complex... at 95.04%
+>Cluster 527
+0	131aa, >1ezs_complex... at 96.18%
+1	140aa, >1ezu_complex... *
+>Cluster 528
+0	140aa, >1j7d_complex... *
+>Cluster 529
+0	140aa, >3lbx_complex... *
+1	35aa, >4pas_complex... at 42.86%
+>Cluster 530
+0	140aa, >3o6q_complex... *
+>Cluster 531
+0	137aa, >2v8s_complex... at 43.80%
+1	140aa, >3onl_complex... *
+>Cluster 532
+0	140aa, >3rbb_complex... *
+1	127aa, >3rea_complex... at 74.02%
+2	111aa, >4u5w_complex... at 79.28%
+>Cluster 533
+0	139aa, >4dx8_complex... *
+>Cluster 534
+0	138aa, >5hk5_complex... *
+>Cluster 535
+0	138aa, >5x0w_complex... *
+>Cluster 536
+0	138aa, >6a7v_complex... *
+>Cluster 537
+0	137aa, >1s1q_complex... *
+>Cluster 538
+0	137aa, >1xu1_complex... *
+>Cluster 539
+0	137aa, >2xgy_complex... *
+>Cluster 540
+0	137aa, >6mba_complex... *
+>Cluster 541
+0	136aa, >3twi_complex... *
+>Cluster 542
+0	135aa, >5ua4_complex... *
+>Cluster 543
+0	135aa, >5y1z_complex... *
+>Cluster 544
+0	134aa, >3l9j_complex... *
+>Cluster 545
+0	133aa, >4hx3_complex... *
+>Cluster 546
+0	132aa, >1x75_complex... *
+>Cluster 547
+0	132aa, >4g6v_complex... *
+>Cluster 548
+0	130aa, >1uuz_complex... *
+>Cluster 549
+0	129aa, >1zv5_complex... at 60.47%
+1	129aa, >1zvh_complex... at 60.47%
+2	129aa, >4cj2_complex... at 60.47%
+3	129aa, >4gla_complex... at 60.47%
+4	129aa, >4glv_complex... at 60.47%
+5	129aa, >4gn3_complex... at 60.47%
+6	130aa, >4i0c_complex... *
+7	129aa, >4ml7_complex... at 100.00%
+8	128aa, >5j7c_complex... at 60.94%
+>Cluster 550
+0	130aa, >5d50_complex... *
+>Cluster 551
+0	128aa, >1ffw_complex... *
+>Cluster 552
+0	128aa, >1z92_complex... *
+>Cluster 553
+0	124aa, >5lz3_complex... at 96.77%
+1	126aa, >5lz6_complex... at 96.83%
+2	128aa, >6q69_complex... *
+>Cluster 554
+0	127aa, >1fg9_complex... *
+>Cluster 555
+0	127aa, >1hcf_complex... *
+1	108aa, >1sg1_complex... at 52.78%
+>Cluster 556
+0	127aa, >3kyi_complex... *
+>Cluster 557
+0	127aa, >6er6_complex... *
+1	126aa, >6ere_complex... at 88.10%
+>Cluster 558
+0	124aa, >1dfj_complex... at 69.35%
+1	126aa, >1z7x_complex... *
+2	124aa, >2p42_complex... at 69.35%
+3	124aa, >2p43_complex... at 69.35%
+4	124aa, >2p44_complex... at 69.35%
+5	124aa, >2p45_complex... at 69.35%
+6	123aa, >2p46_complex... at 69.92%
+7	123aa, >2p47_complex... at 69.92%
+8	124aa, >2p48_complex... at 69.35%
+9	123aa, >2p49_complex... at 69.92%
+10	124aa, >2p4a_complex... at 69.35%
+11	124aa, >3qsk_complex... at 69.35%
+12	122aa, >3tsr_complex... at 70.49%
+13	123aa, >4peq_complex... at 69.92%
+14	124aa, >4pou_complex... at 69.35%
+>Cluster 559
+0	126aa, >2hev_complex... *
+>Cluster 560
+0	126aa, >3t0y_complex... *
+>Cluster 561
+0	126aa, >5iia_complex... *
+>Cluster 562
+0	126aa, >6gho_complex... *
+>Cluster 563
+0	125aa, >4pj2_complex... *
+>Cluster 564
+0	125aa, >4pp8_complex... *
+>Cluster 565
+0	125aa, >5kho_complex... *
+>Cluster 566
+0	125aa, >5omb_complex... *
+>Cluster 567
+0	123aa, >6bx4_complex... at 100.00%
+1	125aa, >6bx5_complex... *
+>Cluster 568
+0	123aa, >1uex_complex... *
+>Cluster 569
+0	123aa, >2w80_complex... *
+1	122aa, >2w81_complex... at 100.00%
+2	123aa, >4ayd_complex... at 100.00%
+3	123aa, >4aye_complex... at 100.00%
+4	120aa, >4ayi_complex... at 100.00%
+>Cluster 570
+0	122aa, >1l2w_complex... *
+>Cluster 571
+0	122aa, >1vet_complex... *
+1	118aa, >1veu_complex... at 100.00%
+>Cluster 572
+0	122aa, >2i9b_complex... *
+>Cluster 573
+0	122aa, >5tzn_complex... *
+>Cluster 574
+0	119aa, >5un5_complex... at 100.00%
+1	122aa, >6ndz_complex... *
+>Cluster 575
+0	120aa, >3h8d_complex... *
+>Cluster 576
+0	120aa, >5oc7_complex... *
+>Cluster 577
+0	119aa, >2jjs_complex... *
+1	113aa, >2jjt_complex... at 100.00%
+2	117aa, >4cmm_complex... at 88.89%
+>Cluster 578
+0	119aa, >3tu3_complex... *
+>Cluster 579
+0	119aa, >5ius_complex... *
+1	117aa, >6umt_complex... at 86.32%
+>Cluster 580
+0	118aa, >1u0s_complex... *
+>Cluster 581
+0	114aa, >2i25_complex... at 88.60%
+1	118aa, >2i26_complex... *
+>Cluster 582
+0	115aa, >3di2_complex... at 95.65%
+1	118aa, >3di3_complex... *
+>Cluster 583
+0	102aa, >4je4_complex... at 49.02%
+1	118aa, >4jeg_complex... *
+>Cluster 584
+0	117aa, >2fu5_complex... *
+>Cluster 585
+0	117aa, >2g45_complex... *
+>Cluster 586
+0	117aa, >2j1k_complex... *
+>Cluster 587
+0	117aa, >2psm_complex... *
+1	117aa, >2z3q_complex... at 66.67%
+2	117aa, >2z3r_complex... at 66.67%
+>Cluster 588
+0	107aa, >1b6c_complex... at 42.99%
+1	117aa, >5gpg_complex... *
+>Cluster 589
+0	117aa, >6b12_complex... *
+>Cluster 590
+0	116aa, >2arp_complex... *
+1	114aa, >3b4v_complex... at 99.12%
+2	109aa, >5jhw_complex... at 41.28%
+>Cluster 591
+0	116aa, >4eoz_complex... *
+>Cluster 592
+0	116aa, >5j4a_complex... *
+>Cluster 593
+0	116aa, >6jhw_complex... *
+>Cluster 594
+0	116aa, >6on9_complex... *
+>Cluster 595
+0	115aa, >4eee_complex... *
+>Cluster 596
+0	115aa, >4xl1_complex... *
+>Cluster 597
+0	115aa, >6a6x_complex... *
+>Cluster 598
+0	114aa, >3f1p_complex... *
+1	106aa, >4h6j_complex... at 76.42%
+>Cluster 599
+0	100aa, >3k2m_complex... at 100.00%
+1	98aa, >3t04_complex... at 100.00%
+2	114aa, >3uyo_complex... *
+3	100aa, >5dc4_complex... at 100.00%
+>Cluster 600
+0	113aa, >4kjy_complex... *
+>Cluster 601
+0	113aa, >6jdj_complex... *
+>Cluster 602
+0	112aa, >2iyb_complex... *
+>Cluster 603
+0	112aa, >3uz0_complex... *
+>Cluster 604
+0	112aa, >4jw3_complex... *
+>Cluster 605
+0	112aa, >4kt5_complex... *
+>Cluster 606
+0	111aa, >3ixs_complex... *
+>Cluster 607
+0	111aa, >6arq_complex... *
+>Cluster 608
+0	108aa, >1b27_complex... at 99.07%
+1	110aa, >1b2s_complex... *
+2	110aa, >1b2u_complex... at 100.00%
+3	108aa, >1b3s_complex... at 98.15%
+4	108aa, >1brs_complex... at 99.07%
+5	110aa, >1x1u_complex... at 99.09%
+6	108aa, >1x1w_complex... at 99.07%
+7	110aa, >1x1x_complex... at 99.09%
+8	108aa, >1x1y_complex... at 99.07%
+9	109aa, >2za4_complex... at 98.17%
+>Cluster 609
+0	110aa, >5z7g_complex... *
+1	109aa, >5z7l_complex... at 51.38%
+>Cluster 610
+0	107aa, >4yiq_complex... at 71.96%
+1	107aa, >6aw2_complex... at 100.00%
+2	110aa, >6gbg_complex... *
+3	108aa, >6gbh_complex... at 100.00%
+>Cluster 611
+0	110aa, >6her_complex... *
+>Cluster 612
+0	109aa, >2nqd_complex... *
+1	109aa, >3e1z_complex... at 100.00%
+>Cluster 613
+0	109aa, >5mtj_complex... *
+1	108aa, >5mtm_complex... at 54.63%
+2	90aa, >5mtn_complex... at 57.78%
+>Cluster 614
+0	108aa, >3da7_complex... *
+>Cluster 615
+0	108aa, >4gn4_complex... *
+1	107aa, >4gn5_complex... at 92.52%
+>Cluster 616
+0	108aa, >5vz4_complex... *
+>Cluster 617
+0	107aa, >2aw2_complex... *
+>Cluster 618
+0	107aa, >2v9t_complex... *
+>Cluster 619
+0	104aa, >3hct_complex... *
+1	104aa, >3hcu_complex... at 100.00%
+>Cluster 620
+0	103aa, >1avz_complex... *
+>Cluster 621
+0	103aa, >1du3_complex... *
+>Cluster 622
+0	103aa, >2ptt_complex... *
+>Cluster 623
+0	101aa, >3g7z_complex... *
+1	101aa, >3hpw_complex... at 100.00%
+>Cluster 624
+0	101aa, >4p6i_complex... *
+>Cluster 625
+0	101aa, >5bqe_complex... *
+>Cluster 626
+0	100aa, >3uzv_complex... at 45.00%
+1	101aa, >5kve_complex... *
+>Cluster 627
+0	100aa, >2gh0_complex... *
+1	98aa, >5mr4_complex... at 47.96%
+2	98aa, >5mr5_complex... at 47.96%
+>Cluster 628
+0	100aa, >3ff7_complex... *
+1	100aa, >3ff8_complex... at 100.00%
+2	97aa, >5jyl_complex... at 65.98%
+>Cluster 629
+0	100aa, >3fpu_complex... *
+>Cluster 630
+0	97aa, >2wp3_complex... at 98.97%
+1	99aa, >2wwk_complex... *
+>Cluster 631
+0	98aa, >1flt_complex... *
+1	96aa, >1qty_complex... at 100.00%
+2	95aa, >1rv6_complex... at 52.63%
+3	97aa, >3p9w_complex... at 100.00%
+>Cluster 632
+0	98aa, >1wrd_complex... *
+>Cluster 633
+0	98aa, >2x1w_complex... *
+>Cluster 634
+0	98aa, >3knb_complex... *
+>Cluster 635
+0	98aa, >4dra_complex... *
+>Cluster 636
+0	97aa, >5jjd_complex... *
+>Cluster 637
+0	96aa, >1ay7_complex... *
+>Cluster 638
+0	96aa, >4h5s_complex... *
+>Cluster 639
+0	95aa, >1s4y_complex... *
+>Cluster 640
+0	94aa, >4c4k_complex... *
+>Cluster 641
+0	89aa, >3rzw_complex... at 80.90%
+1	94aa, >5e95_complex... *
+>Cluster 642
+0	94aa, >5gjk_complex... *
+>Cluster 643
+0	94aa, >6a6i_complex... *
+>Cluster 644
+0	94aa, >6ihb_complex... *
+>Cluster 645
+0	93aa, >3zwh_complex... *
+>Cluster 646
+0	93aa, >6fub_complex... *
+>Cluster 647
+0	80aa, >1wqj_complex... at 100.00%
+1	92aa, >2dsp_complex... *
+>Cluster 648
+0	92aa, >3k6g_complex... *
+>Cluster 649
+0	83aa, >1emv_complex... at 67.47%
+1	80aa, >2vln_complex... at 66.25%
+2	90aa, >2vlo_complex... at 70.00%
+3	82aa, >2vlp_complex... at 67.07%
+4	84aa, >2vlq_complex... at 65.48%
+5	82aa, >2wpt_complex... at 97.56%
+6	82aa, >3gjn_complex... at 65.85%
+7	92aa, >3u43_complex... *
+>Cluster 650
+0	92aa, >5e3e_complex... *
+>Cluster 651
+0	91aa, >1lzw_complex... *
+>Cluster 652
+0	91aa, >1nw9_complex... *
+>Cluster 653
+0	91aa, >3oun_complex... *
+>Cluster 654
+0	91aa, >5elu_complex... *
+1	88aa, >5eql_complex... at 86.36%
+>Cluster 655
+0	90aa, >5dfw_complex... at 100.00%
+1	89aa, >6ejg_complex... at 100.00%
+2	91aa, >6ejm_complex... *
+>Cluster 656
+0	89aa, >4yvq_complex... *
+>Cluster 657
+0	88aa, >1wr6_complex... *
+>Cluster 658
+0	88aa, >3eab_complex... *
+>Cluster 659
+0	88aa, >4mjs_complex... *
+>Cluster 660
+0	87aa, >1lfd_complex... *
+>Cluster 661
+0	87aa, >3p8m_complex... *
+>Cluster 662
+0	87aa, >4yyp_complex... *
+>Cluster 663
+0	87aa, >5cff_complex... *
+>Cluster 664
+0	86aa, >2vyr_complex... *
+1	84aa, >5swk_complex... at 55.95%
+>Cluster 665
+0	84aa, >4udm_complex... *
+>Cluster 666
+0	83aa, >3bs5_complex... *
+>Cluster 667
+0	83aa, >6og4_complex... *
+>Cluster 668
+0	82aa, >4dbg_complex... *
+>Cluster 669
+0	80aa, >2v6x_complex... *
+>Cluster 670
+0	79aa, >1sv0_complex... *
+>Cluster 671
+0	79aa, >5xis_complex... *
+>Cluster 672
+0	75aa, >5a6w_complex... at 61.33%
+1	79aa, >6fu9_complex... *
+2	77aa, >6fud_complex... at 100.00%
+3	76aa, >6g10_complex... at 60.53%
+>Cluster 673
+0	78aa, >4y5o_complex... *
+>Cluster 674
+0	77aa, >2zxx_complex... *
+>Cluster 675
+0	77aa, >3hug_complex... *
+>Cluster 676
+0	77aa, >4mrt_complex... *
+>Cluster 677
+0	76aa, >5jze_complex... at 64.47%
+1	76aa, >5tl7_complex... at 64.47%
+2	77aa, >5w8t_complex... *
+>Cluster 678
+0	76aa, >4a49_complex... *
+>Cluster 679
+0	76aa, >6b8n_complex... *
+>Cluster 680
+0	75aa, >3htu_complex... *
+>Cluster 681
+0	74aa, >1oey_complex... *
+>Cluster 682
+0	74aa, >2qc1_complex... *
+>Cluster 683
+0	72aa, >5eoa_complex... at 98.61%
+1	74aa, >5eof_complex... *
+>Cluster 684
+0	73aa, >5o2u_complex... *
+>Cluster 685
+0	72aa, >6fe4_complex... *
+>Cluster 686
+0	68aa, >5uzu_complex... *
+>Cluster 687
+0	66aa, >2byk_complex... *
+1	64aa, >2bym_complex... at 98.44%
+>Cluster 688
+0	66aa, >2ygg_complex... *
+>Cluster 689
+0	66aa, >5jg6_complex... *
+>Cluster 690
+0	66aa, >6fto_complex... *
+>Cluster 691
+0	64aa, >1pk1_complex... *
+>Cluster 692
+0	63aa, >4nl9_complex... *
+>Cluster 693
+0	62aa, >3m0a_complex... *
+>Cluster 694
+0	61aa, >2x9a_complex... *
+>Cluster 695
+0	60aa, >3tq7_complex... *
+>Cluster 696
+0	60aa, >4x33_complex... *
+>Cluster 697
+0	58aa, >2c7m_complex... *
+1	57aa, >2c7n_complex... at 100.00%
+>Cluster 698
+0	57aa, >1efn_complex... *
+>Cluster 699
+0	57aa, >1gcq_complex... *
+>Cluster 700
+0	44aa, >1fc2_complex... at 88.64%
+1	55aa, >1lp1_complex... at 65.45%
+2	56aa, >4wwi_complex... *
+3	55aa, >5dju_complex... at 61.82%
+>Cluster 701
+0	56aa, >5cw7_complex... *
+1	45aa, >5czf_complex... at 95.56%
+>Cluster 702
+0	50aa, >4jmf_complex... *
+>Cluster 703
+0	49aa, >3fxd_complex... *
+>Cluster 704
+0	47aa, >4c7n_complex... *
+>Cluster 705
+0	47aa, >5xiu_complex... *
+>Cluster 706
+0	46aa, >3v1c_complex... *
+>Cluster 707
+0	44aa, >2oob_complex... *
+>Cluster 708
+0	42aa, >5tdy_complex... *
+>Cluster 709
+0	39aa, >3brt_complex... *
+1	39aa, >3brv_complex... at 84.62%
+>Cluster 710
+0	37aa, >5wuj_complex... *
+>Cluster 711
+0	36aa, >5ep6_complex... *
+>Cluster 712
+0	35aa, >2xtt_complex... *

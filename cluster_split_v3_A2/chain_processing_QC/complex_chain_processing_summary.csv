@@ -1,0 +1,18 @@
+﻿metric,value
+Total complexes,1739
+Train complexes,1390
+Validation complexes,172
+Test complexes,177
+QC PASS,1739
+QC FAIL,0
+Exact receptor+ligand chain match,1739
+Missing expected-chain complexes,0
+Unexpected extra-chain complexes,0
+Receptor-ligand chain overlap complexes,0
+Complexes containing nonstandard/hetero residues,0
+Total nonstandard/hetero residues,0
+Single-chain receptor + single-chain ligand,1251
+Multichain receptor + single-chain ligand,455
+Single-chain receptor + multichain ligand,5
+Multichain receptor + multichain ligand,28
+Complexes with at least one multichain partner,488

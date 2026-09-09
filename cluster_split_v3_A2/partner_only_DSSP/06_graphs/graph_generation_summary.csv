@@ -1,0 +1,4 @@
+split,complex_total,complex_success,complex_failed,graphs_generated,qc_graph_count,qc_node_count,qc_positive_count
+train,1390,1390,0,2780,2780,620116,69700
+val,172,172,0,344,344,69673,10384
+test,177,177,0,354,354,74086,10437
